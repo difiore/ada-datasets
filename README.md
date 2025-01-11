@@ -1,3 +1,3 @@
-# ada-2024-datasets
+# ada-datasets
 
 Repository of sample datasets for Applied Data Analysis
