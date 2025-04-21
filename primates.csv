@@ -1,0 +1,144 @@
+Species,Clade,brain_weight,body_weight,diet,percent_fruit,social_system,mating_system,group_size,Locomotion,Main1,mean_Male_Galan,mean_Female_Galan,Superfamily,Family,Genus
+Alouatta_caraya,Atelidae,52.71988304,5596.653333,Folivore,25,Polygyndry,Harem Polygyny,6.683333333,AR,FFMM,6.42,4.33,Ceboidea,Atelidae,Alouatta
+Alouatta_palliata,Atelidae,50.90798009,6358.996667,Folivore,42,Polygyndry,Harem Polygyny,15.5484375,AR,FFMM,6.96,5.28,Ceboidea,Atelidae,Alouatta
+Alouatta_pigra,Atelidae,52.9655,8940,Folivore,,Polygyndry,Harem Polygyny,5.933333333,AR,FFMM,7.505,5.608,Ceboidea,Atelidae,Alouatta
+Alouatta_seniculus,Atelidae,56.57012963,6247.359744,Folivore,42,Polygyndry,Harem Polygyny,6.965,AR,FFMM,6.66,5.18,Ceboidea,Atelidae,Alouatta
+Aotus_azarai,Cebidae,21.41265233,1073.19,Frugivore/Folivore,,Pair,Monogamy,3,,,,,Ceboidea,Cebidae,Aotus
+Aotus_lemurinus,Cebidae,16.78195832,869.98,Frugivore,,Pair,Monogamy,3.5,,,,,Ceboidea,Cebidae,Aotus
+Aotus_trivirgatus,Cebidae,17.21332416,870.8,Frugivore,45.5,Pair,Monogamy,3.5125,,,,,Ceboidea,Cebidae,Aotus
+Arctocebus_calabarensis,Loridae,7.17056343,239.3366667,Omnivore,,Solitary,Spatial Polygyny,1.25,,,,,Lorisoidea,Loridae,Arctocebus
+Ateles_belzebuth,Atelidae,118.5758737,6409.14,Frugivore/Folivore,83,Polygyndry,Polygyndry,16.4,AR,FFMM,8.26,7.88,Ceboidea,Atelidae,Ateles
+Ateles_fusciceps,Atelidae,114.5874241,8033.97,Frugivore,,Polygyndry,Polygyndry,5,,,,,Ceboidea,Atelidae,Ateles
+Ateles_geoffroyi,Atelidae,108.5350006,6711.8,Frugivore,68.7,Polygyndry,Polygyndry,28.01785714,AR,FFMM,7.45,7.64,Ceboidea,Atelidae,Ateles
+Ateles_paniscus,Atelidae,105.9410345,7789.527778,Frugivore,82.9,Polygyndry,Polygyndry,25.5,,,,,Ceboidea,Atelidae,Ateles
+Avahi_laniger,Lemuriformes,10.25135534,1300,Folivore,0,Pair,Monogamy,2.666666667,AR,MF,1.03,1.32,Lemuroidea,Indriidae,Avahi
+Avahi_occidentalis,Lemuriformes,8.2362,795.5,Folivore,,Pair,Monogamy,,AR,MF,0.814,0.777,Lemuroidea,Indriidae,Avahi
+Brachyteles_arachnoides,Atelidae,120.1,9247.5,Frugivore/Folivore,,Polygyndry,Polygyndry,27.08333333,AR,FFMM,9.61,8.07,Ceboidea,Atelidae,Brachyteles
+Cacajao_calvus,Pitheciidae,73.3,3293.02,Frugivore,18,Polygyndry,Harem Polygyny,15,AR,FFMM,3.45,2.88,Ceboidea,Pitheciidae,Cacajao
+Callicebus_moloch,Pitheciidae,17.725,883.8052381,Frugivore,53.7,Pair,Monogamy,3.366666667,,,,,Ceboidea,Pitheciidae,Callicebus
+Callicebus_torquatus,Pitheciidae,20.55927496,1152.5,Frugivore,33,Pair,Monogamy,3.575,AR,MF,1.28,1.21,Ceboidea,Pitheciidae,Callicebus
+Callimico_goeldii,Cebidae,11.75188692,538.5,Omnivore,,Pair,Monogamy,6.5,AR,MF,0.499,0.468,Ceboidea,Cebidae,Callimico
+Callithrix_argentata,Cebidae,8.045805332,361.1233333,Omnivore,,Pair,Monogamy,6.2,,,,,Ceboidea,Cebidae,Callithrix
+Callithrix_geoffroyi,Cebidae,8.642857143,342,Omnivore,,Pair,Monogamy,9,,,,,Ceboidea,Cebidae,Callithrix
+Callithrix_jacchus,Cebidae,7.643613607,272.705,Frugivore,22,Pair,Polyandry,7.877777778,AR,FFMM,0.317,0.324,Ceboidea,Cebidae,Callithrix
+Callithrix_penicillata,Cebidae,7.554774421,323.49,Omnivore,,Pair,Monogamy,6.6,AR,MFF,0.344,0.307,Ceboidea,Cebidae,Callithrix
+Callithrix_pygmaea,Cebidae,4.452087064,125.8133333,Omnivore,0,Pair,Polyandry,5.628571429,,,,,Ceboidea,Cebidae,Callithrix
+Cebus_albifrons,Cebidae,64.7148031,2535.56,Omnivore,24.6,Polygyndry,Polygyndry,21.125,AR,FFMM,2.65,1.7,Ceboidea,Cebidae,Cebus
+Cebus_apella,Cebidae,68.74714508,2669.21,Omnivore,36,Polygyndry,Polygyndry,12.06,,,,,Ceboidea,Cebidae,Cebus
+Cebus_capucinus,Cebidae,73.78615672,2798.107778,Omnivore,67.5,Polygyndry,Harem Polygyny,16.96875,AR,FFMM,3.68,2.54,Ceboidea,Cebidae,Cebus
+Cebus_olivaceus,Cebidae,72.96288722,2646.88,Omnivore,46.7,Polygyndry,Polygyndry,22.42,AR,MFF,3.24,2.52,Ceboidea,Cebidae,Cebus
+Cercocebus_agilis,Papionini,118.3199845,7552.81,Frugivore,,Polygyndry,Polygyndry,15,BOTH,MFF,9.5,5.66,Cercopithecoidea,Cercopithecidae,Cercocebus
+Cercocebus_torquatus_atys,Papionini,99.80592857,7770.62,Frugivore,,Polygyndry,Polygyndry,95,,,,,Cercopithecoidea,Papionini,Cercocebus
+Cercocebus_galeritus,Papionini,102.6369551,7837.5,Frugivore,80.1,Polygyndry,Polygyndry,21.8,BOTH,FFMM,9.61,5.26,Cercopithecoidea,Cercopithecidae,Cercocebus
+Cercocebus_torquatus,Papionini,111.4337939,8239.801111,Frugivore,79,Polygyndry,Polygyndry,30.16666667,BOTH,FFMM,9.47,5.5,Cercopithecoidea,Cercopithecidae,Cercocebus
+Chlorocebus_pygerythrus,Cercopithecini,64.77661444,4060,Frugivore,,Polygyndry,Polygyndry,40.5,T,FFMM,4.28,2.98,Cercopithecoidea,Cercopithecidae,Chlorocebus
+Cercopithecus_ascanius,Cercopithecini,63.61533538,4156.746667,Frugivore,60.8,Polygyny,Harem Polygyny,26.29375,AR,MFF,3.69,2.79,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_campbelli,Cercopithecini,58.98195992,3775.91,Frugivore,78,Polygyny,Harem Polygyny,9.625,AR,MFF,4.5,2.7,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_cephus,Cercopithecini,67.9250755,3516.626667,Frugivore,79,Polygyny,Harem Polygyny,10.75,AR,MF,4.09,2.88,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_diana,Cercopithecini,64.86223333,4519.636667,Frugivore,52,Polygyny,Harem Polygyny,20.3,AR,MFF,5.2,3.9,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_lhoesti,Cercopithecini,76,5003.735,Frugivore,,Polygyny,Harem Polygyny,14.2,,,,,Cercopithecoidea,Cercopithecini,Cercopithecus
+Cercopithecus_mitis,Cercopithecini,73.95943938,6335.43,Frugivore,54.5,Polygyndry,Harem Polygyny,21.275,AR,MFF,5.85,3.93,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_mona,Cercopithecini,65.69504887,4466.723333,Frugivore,,Polygyny,Harem Polygyny,21.5,AR,MFF,5.067,3,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_neglectus,Cercopithecini,67.5429959,5589.84,Frugivore,77,Polygyny,Harem Polygyny,5,BOTH,MF,7.35,4.13,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_nictitans,Cercopithecini,73.6855,5178.136667,Frugivore,67.1,Polygyny,Harem Polygyny,18.25,AR,MFF,6.67,4.25,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cercopithecus_pogonias,Cercopithecini,63.26794444,3588.09,Frugivore,82.9,Polygyny,Harem Polygyny,14.83333333,AR,MFF,4.25,2.83,Cercopithecoidea,Cercopithecidae,Cercopithecus
+Cheirogaleus_major,Lemuriformes,6.119796595,430.34,Omnivore,,Solitary,Spatial Polygyny,5.5,AR,MF,0.5746,0.4433,Lemuroidea,Cheirogaleidae,Cheirogaleus
+Cheirogaleus_medius,Lemuriformes,2.912290909,188.88,Omnivore,,Solitary,Monogamy,2,AR,MF,NA,NA,Lemuroidea,Cheirogaleidae,Cheirogaleus
+Chiropotes_satanas,Pitheciidae,50.07019857,2955.135,Frugivore,16.2,Polygyndry,Polygyndry,19.5,AR,FFMM,3.1,2.96,Ceboidea,Pitheciidae,Chiropotes
+Chlorocebus_aethiops,Cercopithecini,63.92378798,4214.496667,Frugivore,,Polygyndry,Polygyndry,22.56923077,T,FFMM,5.77,3.53,Cercopithecoidea,Cercopithecidae,Chlorocebus
+Colobus_angolensis,Colobinae,71.56391154,8807.655,Folivore,14.9,Polygyndry,Harem Polygyny,9,AR,MFF,9.8,7.4,Cercopithecoidea,Cercopithecidae,Colobus
+Piliocolobus_badius,Colobinae,65.96776666,8105,Folivore,11,Polygyndry,Polygyndry,29.18,,,,,Cercopithecoidea,Colobinae,Piliocolobus
+Colobus_guereza,Colobinae,77.37075498,10052.37667,Folivore,14,Polygyndry,Harem Polygyny,8.6,AR,MFF,9.89,7.9,Cercopithecoidea,Cercopithecidae,Colobus
+Colobus_polykomos,Colobinae,76.02049416,9118.541111,Folivore,21.4,Polygyndry,Harem Polygyny,11,AR,MFF,9.9,8.3,Cercopithecoidea,Cercopithecidae,Colobus
+Colobus_satanas,Colobinae,80.2,10750,Folivore,4,Polygyndry,Polygyndry,14.33333333,AR,FFMM,10.4,7.42,Cercopithecoidea,Cercopithecidae,Colobus
+Procolobus_verus,Colobinae,54.52871124,4025,Folivore,9,Polygyndry,Polygyndry,8,AR,MFF,4.7,4.2,Cercopithecoidea,Cercopithecidae,Procolobus
+Daubentonia_madagascariensis,Lemuriformes,46.34472526,2603.123333,Omnivore,0,Solitary,Spatial Polygyny,1.75,AR,solitary,2.62,2.49,Lemuroidea,Daubentoniidae,Daubentonia
+Erythrocebus_patas,Cercopithecini,97.87219042,7858.15,Omnivore,75,Polygyny,Harem Polygyny,26.52,T,MFF,12.4,6.5,Cercopithecoidea,Cercopithecidae,Erythrocebus
+Eulemur_coronatus,Lemuriformes,21.39439752,2099.925,Frugivore/Folivore,,Polygyndry,Polygyndry,6.95,,,,,Lemuroidea,Lemuriformes,Eulemur
+Eulemur_fulvus_fulvus,Lemuriformes,24.78624892,2332.33,Frugivore/Folivore,46,Polygyndry,Polygyndry,10.08,,,,,Lemuroidea,Lemuriformes,Eulemur
+Eulemur_macaco_macaco,Lemuriformes,24.63420724,2336.81,Frugivore/Folivore,,Polygyndry,Polygyndry,8.966666667,,,,,Lemuroidea,Lemuriformes,Eulemur
+Eulemur_mongoz,Lemuriformes,21.45154487,1810.376667,Frugivore/Folivore,18,Pair,Monogamy,2.7,AR,MF,1.41,1.56,Lemuroidea,Lemuridae,Eulemur
+Eulemur_rubriventer,Lemuriformes,26.92409915,1726.8,Frugivore/Folivore,,Pair,Monogamy,3.1,AR,MF,2.067,1.96,Lemuroidea,Lemuridae,Eulemur
+Euoticus_elegantulus,Galagonidae,5.733931588,303.4933333,Omnivore,5,Solitary,Spatial Polygyny,2.5,,,,,Lorisoidea,Galagonidae,Euoticus
+Galago_alleni,Galagonidae,6.1,250,Omnivore,73,Solitary,Spatial Polygyny,1.75,,,,,Lorisoidea,Galagonidae,Galago
+Galago_moholi,Galagonidae,3.83863657,183.48,Omnivore,,Solitary,Spatial Polygyny,2,,,,,Lorisoidea,Galagonidae,Galago
+Galago_senegalensis,Galagonidae,4.129689917,210.4111111,Omnivore,0,Solitary,Spatial Polygyny,1,,,,,Lorisoidea,Galagonidae,Galago
+Galagoides_demidoff,Galagonidae,3.38,62.23555556,Omnivore,19,Solitary,Spatial Polygyny,2.25,,,,,Lorisoidea,Galagonidae,Galagoides
+Galagoides_zanzibaricus,Galagonidae,3.64118517,147.35,Omnivore,,Solitary,Spatial Polygyny,3.5,AR,MF,0.15,0.137,Lorisoidea,Galagidae,Galagoides
+Gorilla_beringei,Hominoidea,508.9591388,136212.595,Folivore,,Polygyny,Harem Polygyny,13,BOTH,FFMM,162.5,97.5,Hominoidea,Hominidae,Gorilla
+Gorilla_gorilla_gorilla,Hominoidea,507.2466269,121326.9967,Folivore,67,Polygyny,Harem Polygyny,10.04705882,,,,,Hominoidea,Hominoidea,Gorilla
+Hapalemur_griseus,Lemuriformes,14.6002444,1021.333333,Folivore,,Pair,Monogamy,3.55,AR,MFF,0.8675,0.7865,Lemuroidea,Lemuridae,Hapalemur
+Hylobates_agilis,Hominoidea,90.647625,5251.36,Frugivore/Folivore,61,Pair,Monogamy,3.95,AR,MF,5.71,6.3,Hominoidea,Hylobatidae,Hylobates
+Hylobates_klossii,Hominoidea,92.04337338,5861.145,Omnivore,72,Pair,Monogamy,3.6,AR,MF,5.67,5.92,Hominoidea,Hylobatidae,Hylobates
+Hylobates_lar,Hominoidea,105.276397,5462.87,Frugivore,60,Pair,Monogamy,3.514285714,AR,MF,5.92,5.36,Hominoidea,Hylobatidae,Hylobates
+Hylobates_moloch,Hominoidea,106.708,6034.405,Frugivore/Folivore,61,Pair,Monogamy,3.5,AR,MF,6.58,6.25,Hominoidea,Hylobatidae,Hylobates
+Hylobates_muelleri,Hominoidea,90.8927958,5837.405,Frugivore/Folivore,,Pair,Monogamy,3.45,AR,MF,5.63,5.37,Hominoidea,Hylobatidae,Hylobates
+Hylobates_pileatus,Hominoidea,87.73385185,5638.685,Frugivore/Folivore,79.4,Pair,Monogamy,3.85,AR,MF,5.5,5.44,Hominoidea,Hylobatidae,Hylobates
+Indri_indri,Lemuriformes,36.30860992,10500,Folivore,33,Pair,Monogamy,3.28,AR,MF,5.83,6.84,Lemuroidea,Indriidae,Indri
+Lagothrix_lagotricha,Atelidae,99.68833333,7647.896667,Omnivore,65.7,Polygyndry,Polygyndry,20.30909091, ,FFMM,NA,6,Ceboidea,Atelidae,Lagothrix
+Lemur_catta,Lemuriformes,23.24557974,2380.493333,Frugivore,54,Polygyndry,Polygyndry,15.75,BOTH,FFMM,2.21,2.21,Lemuroidea,Lemuridae,Lemur
+Leontopithecus_chrysomelas,Cebidae,12.2618585,613.65,Omnivore,,Pair,Monogamy,6.7,,,,,Ceboidea,Cebidae,Leontopithecus
+Leontopithecus_rosalia,Cebidae,13.11586768,623.51,Omnivore,84,Pair,Monogamy,5.4,AR,MF,0.62,0.598,Ceboidea,Cebidae,Leontopithecus
+Lepilemur_mustelinus,Lemuriformes,9.90406676,625,Folivore,6,Solitary,Spatial Polygyny,1.5,AR,solitary,NA,NA,Lemuroidea,Lepilemuridae,Lepilemur
+Lepilemur_ruficaudatus,Lemuriformes,8.4434,750,Folivore,,Solitary,Spatial Polygyny,,AR,MF,0.729,0.7185,Lemuroidea,Lepilemuridae,Lepilemur
+Lophocebus_albigena,Papionini,97.48909348,7932.236667,Frugivore,,Polygyndry,Polygyndry,15.68095238,AR,FFMM,7.89,6.01,Cercopithecoidea,Cercopithecidae,Lophocebus
+Lophocebus_aterrimus,Papionini,108.9050072,6655.185,Frugivore,,Polygyndry,Polygyndry,9.5,,,,,Cercopithecoidea,Papionini,Lophocebus
+Loris_tardigradus,Loridae,6.05152171,269.8066667,Omnivore,15,Solitary,Spatial Polygyny,2,,,,,Lorisoidea,Loridae,Loris
+Macaca_arctoides,Papionini,101.0578766,7877.68,Frugivore,,Polygyndry,Polygyndry,13.75,BOTH,FFMM,12.2,8.4,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_fascicularis,Papionini,66.52984081,4644.106667,Frugivore,66.9,Polygyndry,Polygyndry,27.52142857,BOTH,FFMM,4.85,3.22,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_fuscata,Papionini,98.59266667,9498.88,Frugivore/Folivore,44,Polygyndry,Polygyndry,64.65,BOTH,FFMM,10.97,8.03,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_mulatta,Papionini,88.94143559,6471.73,Frugivore,63,Polygyndry,Polygyndry,36.3625,BOTH,FFMM,6.99,4.94,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_nemestrina,Papionini,109.8711434,7244.593333,Frugivore,75,Polygyndry,Polygyndry,31.56,BOTH,FFMM,11.2,6.59,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_nigra,Papionini,91.456,7662.195,Frugivore,,Polygyndry,Polygyndry,47,T,FFMM,9.89,5.47,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_radiata,Papionini,79.46647349,5877.495,Frugivore,53,Polygyndry,Polygyndry,28.86,BOTH,FFMM,6.6,3.69,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_silenus,Papionini,82.88,6935.125,Omnivore,,Polygyndry,Polygyndry,19,AR,FFMM,8.9,6.1,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_sinica,Papionini,73.14189261,4512.995,Frugivore,75,Polygyndry,Polygyndry,24.8,AR,FFMM,5.66,3.3,Cercopithecoidea,Cercopithecidae,Macaca
+Macaca_sylvanus,Papionini,97.36450307,11173.265,Frugivore/Folivore,33,Polygyndry,Polygyndry,21.86,BOTH,FFMM,16,11,Cercopithecoidea,Cercopithecidae,Macaca
+Mandrillus_leucophaeus,Papionini,185.962,16251.65,Frugivore,,Polygyndry,Polygyndry,96.5,BOTH,FFMM,20.75,9.25,Cercopithecoidea,Cercopithecidae,Mandrillus
+Mandrillus_sphinx,Papionini,162.4087246,19842.53,Frugivore,92,Polygyndry,Polygyndry,95,AR,FFMM,34.4,12.8,Cercopithecoidea,Cercopithecidae,Mandrillus
+Microcebus_murinus,Lemuriformes,1.720847331,63.93333333,Omnivore,51,Solitary,Spatial Polygyny,5.1,AR,solitary,0.063,0.0672,Lemuroidea,Cheirogaleidae,Microcebus
+Microcebus_rufus,Lemuriformes,1.778192127,48.39,Omnivore,,Solitary,Spatial Polygyny,2.25,,,,,Lemuroidea,Lemuriformes,Microcebus
+Miopithecus_talapoin,Cercopithecini,37.7,1236.953333,Omnivore,54,Polygyndry,Polygyndry,68.375,BOTH,FFMM,1.38,1.12,Cercopithecoidea,Cercopithecidae,Miopithecus
+Mirza_coquereli,Lemuriformes,6.004526759,315.2333333,Omnivore,,Solitary,Spatial Polygyny,1.5,AR,solitary,0.3104,0.3125,Lemuroidea,Cheirogaleidae,Mirza
+Nasalis_larvatus,Colobinae,96.21140265,13441.825,Folivore,23,Polygyndry,Harem Polygyny,9.94,AR,MFF,21.02,10.48,Cercopithecoidea,Cercopithecidae,Nasalis
+Nomascus_concolor,Hominoidea,131.7,6631.735,Frugivore,,Pair,Monogamy,3.5,AR,MFF,7.77,7.62,Hominoidea,Hylobatidae,Nomascus
+Nycticebus_coucang,Loridae,10.72860708,838.35,Omnivore,60,Solitary,Spatial Polygyny,1,AR,solitary,0.679,0.626,Lorisoidea,Lorisidae,Nycticebus
+Nycticebus_pygmaeus,Loridae,7.533648222,413.7733333,Omnivore,,Solitary,Spatial Polygyny,,,,,,Lorisoidea,Loridae,Nycticebus
+Otolemur_crassicaudatus,Galagonidae,12.20149501,1367.203333,Omnivore,27,Solitary,Spatial Polygyny,2.25,AR,solitary,1.19,1.11,Lorisoidea,Galagidae,Otolemur
+Otolemur_garnettii,Galagonidae,11.23904137,1055.585,Omnivore,,Solitary,Spatial Polygyny,,AR,solitary,0.794,0.734,Lorisoidea,Galagidae,Otolemur
+Pan_paniscus,Hominoidea,346.2373867,37522.475,Frugivore,,Polygyndry,Polygyndry,67.5,BOTH,FFMM,45,33.2,Hominoidea,Hominidae,Pan
+Pan_troglodytes_troglodytes,Hominoidea,376.1254607,48328,Frugivore,63,Polygyndry,Polygyndry,42.70714286,,,,,Hominoidea,Hominoidea,Pan
+Papio_anubis,Papionini,171.7975374,17209.52,Frugivore,13.6,Polygyndry,Polygyndry,47.04516129,BOTH,FFMM,21.1,12.2,Cercopithecoidea,Cercopithecidae,Papio
+Papio_cynocephalus,Papionini,169.4079477,14290.71667,Frugivore,62,Polygyndry,Polygyndry,48.205,T,FFMM,21.8,12.3,Cercopithecoidea,Cercopithecidae,Papio
+Papio_hamadryas,Papionini,154.4376,12002.36,Frugivore/Folivore,88,Polygyndry,Harem Polygyny,41.125,T,MFF,16.9,9.9,Cercopithecoidea,Cercopithecidae,Papio
+Papio_papio,Papionini,165.3,17811.025,Frugivore,,Polygyndry,Harem Polygyny,136.6666667,T,FFMM,23,12,Cercopithecoidea,Cercopithecidae,Papio
+Papio_ursinus,Papionini,195.4334722,20014.72,Frugivore/Folivore,87,Polygyndry,Polygyndry,41.1,T,FFMM,29.8,14.8,Cercopithecoidea,Cercopithecidae,Papio
+Perodicticus_potto,Loridae,12.84560415,1124.492222,Omnivore,65,Solitary,Spatial Polygyny,1.25,AR,solitary,0.83,0.836,Lorisoidea,Lorisidae,Perodicticus
+Pithecia_pithecia,Pitheciidae,33.35197723,1573.595,Frugivore,31.4,Polygyndry,Polygyndry,2.65,AR,MF,1.94,1.58,Ceboidea,Pitheciidae,Pithecia
+Pongo_abelii,Hominoidea,409.5198448,48223.06,Frugivore,,Solitary,Spatial Polygyny,2,,,,,Hominoidea,Hominoidea,Pongo
+Pongo_pygmaeus,Hominoidea,382.4565085,55279.145,Frugivore,64,Solitary,Spatial Polygyny,1.6,AR,solitary,78.5,35.8,Hominoidea,Pongidae,Pongo
+Presbytis_comata,Colobinae,61.124,6460,Folivore,,Polygyny,Harem Polygyny,7,AR,MF,6.68,6.71,Cercopithecoidea,Cercopithecidae,Presbytis
+Presbytis_melalophos,Colobinae,66.90504329,5326.373333,Folivore,24,Polygyndry,Harem Polygyny,12.76666667,AR,MFF,6.59,6.47,Cercopithecoidea,Cercopithecidae,Presbytis
+Propithecus_diadema,Lemuriformes,41.2320968,7500,Folivore,20,Polygyndry,Polygyndry,5.55,,,,,Lemuroidea,Lemuriformes,Propithecus
+Propithecus_verreauxi,Lemuriformes,27.04945139,3389.42,Folivore,41,Polygyndry,Polygyndry,5.92,AR,FFMM,2.885,2.87,Lemuroidea,Indriidae,Propithecus
+Pygathrix_nemaeus,Colobinae,91.95635896,9250.366667,Folivore,,Polygyndry,Harem Polygyny,21.45,AR,FFMM,11,8.44,Cercopithecoidea,Cercopithecidae,Pygathrix
+Saguinus_fuscicollis,Cebidae,8.147165526,406.83,Omnivore,60.4,Pair,Polyandry,5.7,,,,,Ceboidea,Cebidae,Saguinus
+Saguinus_geoffroyi,Cebidae,14.12940757,495.9,Omnivore,,Pair,Monogamy,5.15,,,,,Ceboidea,Cebidae,Saguinus
+Saguinus_midas,Cebidae,10.12270106,551.4533333,Omnivore,69,Pair,Polyandry,5,,,,,Ceboidea,Cebidae,Saguinus
+Saguinus_mystax,Cebidae,11.52349279,541.2185714,Omnivore,,,,5.3,AR,FFMM,0.522,0.545,Ceboidea,Cebidae,Saguinus
+Saguinus_oedipus,Cebidae,9.759725425,388.8466667,Omnivore,,Pair,Polyandry,6.298333333,AR,FFMM,0.418,0.404,Ceboidea,Cebidae,Saguinus
+Saimiri_boliviensis,Cebidae,25.73991794,707.225,Omnivore,,,,20,,,,,Ceboidea,Cebidae,Saimiri
+Saimiri_oerstedii,Cebidae,23.10847227,670,Omnivore,,Polygyndry,Polygyndry,24,,,,,Ceboidea,Cebidae,Saimiri
+Saimiri_sciureus,Cebidae,24.14173107,811.49,Omnivore,28,Polygyndry,Polygyndry,37.80833333,AR,FFMM,0.92,0.723,Ceboidea,Cebidae,Saimiri
+Semnopithecus_entellus,Colobinae,113.7803778,11398.76333,Folivore,24.4,Polygyndry,Harem Polygyny,24.75,T,MFF,13,9.89,Cercopithecoidea,Cercopithecidae,Semnopithecus
+Symphalangus_syndactylus,Hominoidea,128.8891378,9246.333333,Folivore,47,Pair,Monogamy,3.86,AR,MF,11.9,10.7,Hominoidea,Hylobatidae,Symphalangus
+Tarsius_bancanus,Tarsiidae,3.249839527,104.83,Omnivore,,Solitary,Spatial Polygyny,2,NA,solitary,NA,NA,Tarsioidea,Tarsiidae,Tarsius
+Tarsius_syrichta,Tarsiidae,3.479635532,107.5366667,Omnivore,0,Solitary,Spatial Polygyny,2,AR,solitary,NA,NA,Tarsioidea,Tarsiidae,Tarsius
+Theropithecus_gelada,Papionini,136.2073239,14788.03667,Frugivore,26,Polygyndry,Harem Polygyny,151.3,T,MFF,19,11.7,Cercopithecoidea,Cercopithecidae,Theropithecus
+Trachypithecus_cristatus,Colobinae,59.14751404,5453.936667,Folivore,19,Polygyndry,Harem Polygyny,24.75,AR,FFMM,6.72,5.78,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Trachypithecus_johnii,Colobinae,86.48189389,11098.36,Folivore,21,Polygyndry,Harem Polygyny,16.5,NA,FFMM,NA,NA,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Trachypithecus_obscurus,Colobinae,63.66254877,5775.96,Folivore,35,Polygyndry,Harem Polygyny,10.3,AR,MFF,7.77,6.22,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Trachypithecus_phayrei,Colobinae,76.73630109,8040.86,Folivore,,Polygyny,Harem Polygyny,8.8,AR,MFF,7.93,6.95,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Trachypithecus_pileatus,Colobinae,107.3719186,10153.31,Folivore,,Polygyny,Harem Polygyny,6.2,AR,MFF,12,9.86,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Trachypithecus_vetulus,Colobinae,63.49900193,7705.693333,Folivore,,Polygyny,Harem Polygyny,13,NA,MFF,NA,NA,Cercopithecoidea,Cercopithecidae,Trachypithecus
+Varecia_variegata_variegata,Lemuriformes,32.639348,3335,Frugivore,73.9,Pair,Monogamy,5.933333333,,,,,Lemuroidea,Lemuriformes,Varecia
