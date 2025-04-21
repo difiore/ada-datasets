@@ -1,0 +1,227 @@
+﻿Row,Keep,Genus_species,Common_name,Activity_pattern,Main1,Locomotion,mean_Male_Galan,mean_Female_Galan,Superfamily,Order,Family,Genus
+2,0,Allocebus_trichotis,Hairy-eared Dwarf Lemur,Nocturnal,FFMM,AR,0.092,0.084,Lemuroidea,Primates,Cheirogaleidae,Allocebus
+6,0,Cercopithecus_preussi,Preuss's Monkey,Diurnal,MFF,T,4.7,2.9,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+10,0,Alouatta_caraya,Paranguyan Howler Monkey,Diurnal,FFMM,AR,6.42,4.33,Ceboidea,Primates,Atelidae,Alouatta
+20,0,Alouatta_discolor,Spix's Howler Monkey,Diurnal,MFF,AR,7.25,5.5,Ceboidea,Primates,Atelidae,Alouatta
+22,0,Alouatta_guariba,Brown Howler Monkey,Diurnal,MFF,AR,6.73,4.35,Ceboidea,Primates,Atelidae,Alouatta
+31,0,Alouatta_palliata,Mantled Howler Monkey,Diurnal,FFMM,AR,6.96,5.28,Ceboidea,Primates,Atelidae,Alouatta
+39,0,Alouatta_pigra,Central American Black Howler Monkey,Diurnal,FFMM,AR,7.505,5.608,Ceboidea,Primates,Atelidae,Alouatta
+46,0,Alouatta_sara,Bolivian Red Howler Monkey,Diurnal,MFF,AR,NA,NA,Ceboidea,Primates,Atelidae,Alouatta
+48,0,Alouatta_seniculus,Colombian Red Howler Monkey,Diurnal,FFMM,AR,6.66,5.18,Ceboidea,Primates,Atelidae,Alouatta
+54,0,Aotus_azarae,Azara's Night Monkey,Cathemeral,MF, ,NA,NA,Ceboidea,Primates,Cebidae,Aotus
+63,0,Aotus_nigriceps,Black-headed Night Monkey,Nocturnal,MF,AR,0.875,1.04,Ceboidea,Primates,Cebidae,Aotus
+67,0,Aotus_zonalis,Panamanian Night Monkey,Nocturnal,MF,AR,0.889,0.916,Ceboidea,Primates,Cebidae,Aotus
+72,1,Ateles_belzebuth,White-bellied Spider Monkey,Diurnal,FFMM,AR,8.26,7.88,Ceboidea,Primates,Atelidae,Ateles
+76,0,Ateles_chamek,Black Spider Monkey,Diurnal,FFMM,AR,9.41,9.33,Ceboidea,Primates,Atelidae,Ateles
+80,0,Ateles_geoffroyi,Central American Spider Monkey,Diurnal,FFMM,AR,7.45,7.64,Ceboidea,Primates,Atelidae,Ateles
+88,0,Ateles_hybridus,Variegated Spider Monkey,Diurnal,FFMM,AR,8.25,9,Ceboidea,Primates,Atelidae,Ateles
+91,0,Ateles_marginatus,White-Whiskered Spider Monkey,Diurnal,FFMM,AR,10.4,5.824,Ceboidea,Primates,Atelidae,Ateles
+96,0,Avahi_laniger,Eastern Wooly Lemur,Nocturnal,MF,AR,1.03,1.32,Lemuroidea,Primates,Indriidae,Avahi
+98,0,Avahi_meridionalis,Southern Wooly Lemur,Nocturnal,MF,AR,1.1,1.2,Lemuroidea,Primates,Indriidae,Avahi
+101,0,Avahi_occidentalis,Western Wooly Lemur,Nocturnal,MF,AR,0.814,0.777,Lemuroidea,Primates,Indriidae,Avahi
+106,0,Brachyteles_arachnoides,Southern Muriqui,Diurnal,FFMM,AR,9.61,8.07,Ceboidea,Primates,Atelidae,Brachyteles
+109,0,Brachyteles_hypoxanthus,Northern Muriqui,Diurnal,FFMM,AR,9.6,8.4,Ceboidea,Primates,Atelidae,Brachyteles
+111,0,Cacajao_calvus,Red Uakari Monkey / Bald Uakari,Diurnal,FFMM,AR,3.45,2.88,Ceboidea,Primates,Pitheciidae,Cacajao
+114,0,Cacajao_melanocephalus,Golden Backed Uakari,Diurnal,FFMM,AR,3.16,2.7335,Ceboidea,Primates,Pitheciidae,Cacajao
+119,0,Callicebus_coimbrai,Coimbra-Filho's Titi Monkey,Diurnal,MF,AR,NA,1.165,Ceboidea,Primates,Pitheciidae,Callicebus
+122,0,Callicebus_melanochir,Southern Bahian Titi Monkey,Diurnal,MF,AR,NA,1.4,Ceboidea,Primates,Pitheciidae,Callicebus
+124,0,Callicebus_nigrifrons,Black-fronted Titi Monkey,Diurnal,MF,AR,NA,NA,Ceboidea,Primates,Pitheciidae,Callicebus
+126,0,Callicebus_personatus,Masked Titi Monkey,Diurnal,MF,AR,1.27,1.378,Ceboidea,Primates,Pitheciidae,Callicebus
+129,0,Callimico_goeldii,Goeldi's Monkey,Diurnal,MF,AR,0.499,0.468,Ceboidea,Primates,Cebidae,Callimico
+133,0,Callithrix_aurita,Buffy-tufted-ear Marmoset,Diurnal,MF_MFF,AR,0.453,0.431,Ceboidea,Primates,Cebidae,Callithrix
+136,0,Callithrix_flaviceps,Buffy-headed Marmoset,Diurnal,FFMM,AR,0.43,0.43,Ceboidea,Primates,Cebidae,Callithrix
+140,1,Callithrix_jacchus,Common Marmoset,Diurnal,FFMM,AR,0.317,0.324,Ceboidea,Primates,Cebidae,Callithrix
+147,0,Callithrix_penicillata,Black-tufted-ear Marmoset,Diurnal,MFF,AR,0.344,0.307,Ceboidea,Primates,Cebidae,Callithrix
+151,0,Cebus_albifrons,Ecuadorian White-fronted Capuchin,Diurnal,FFMM,AR,2.65,1.7,Ceboidea,Primates,Cebidae,Cebus
+157,0,Cebus_albifrons,Humboldt's White-fronted Capuchin,Diurnal,MFF,BOTH,3.18,2.29,Ceboidea,Primates,Cebidae,Cebus
+160,0,Cebus_capucinus,Colombian White-faced Capuchin,Diurnal,FFMM,AR,3.68,2.54,Ceboidea,Primates,Cebidae,Cebus
+167,0,Cebus_kaapori,Ka'apor Capuchin,Diurnal,FFMM,AR,3,2.4,Ceboidea,Primates,Cebidae,Cebus
+170,0,Cebus_olivaceus,Guianan Weeper Capuchin,Diurnal,MFF,AR,3.24,2.52,Ceboidea,Primates,Cebidae,Cebus
+173,0,Cercocebus_agilis,Agile Mangabey,Diurnal,MFF,BOTH,9.5,5.66,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+176,0,Cercocebus_atys,Sooty Mangabey,Diurnal,FFMM,T,11,6.2,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+179,0,Cercocebus_galeritus,Tana River/ Crested Mangabey,Diurnal,FFMM,BOTH,9.61,5.26,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+181,0,Cercocebus_atys,White napped Mangabey,Diurnal,MFF,T,9.45,5.1,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+183,0,Cercocebus_sanjei,Sanje Mangabey,Diurnal,FFMM,BOTH,10.3,5.8,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+185,0,Cercocebus_torquatus,Red capped Mangabey,Diurnal,FFMM,BOTH,9.47,5.5,Cercopithecoidea,Primates,Cercopithecidae,Cercocebus
+187,1,Cercopithecus_ascanius,Red-tailed Monkey/Guenon,Diurnal,MFF,AR,3.69,2.79,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+192,0,Cercopithecus_campbelli,Campbell's Monkey/Guenon,Diurnal,MFF,AR,4.5,2.7,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+194,0,Cercopithecus_cephus,Moustached Monkey/Guenon,Diurnal,MF,AR,4.09,2.88,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+196,0,Cercopithecus_pogonias,Crowned Monkey,Diurnal,MFF,AR,4.25,2.83,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+198,0,Cercopithecus_diana,Diana Monkey,Diurnal,MFF,AR,5.2,3.9,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+202,0,Cercopithecus_erythrogaster,White-throated Monkey,Diurnal,MFF,AR,4,3,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+206,0,Cercopithecus_campbelli,Lowe's Monkey,Diurnal,MFF,AR,5.2,2.6,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+208,0,Cercopithecus_mitis,Blue Monkey,Diurnal,MFF,AR,5.85,3.93,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+215,0,Cercopithecus_mona,Mona Monkey,Diurnal,MFF,AR,5.067,3,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+217,0,Cercopithecus_neglectus,De Brazza's' Monkey,Diurnal,MF,BOTH,7.35,4.13,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+220,0,Cercopithecus_nictitans,Greater spot-nosed Monkey,Diurnal,MFF,AR,6.67,4.25,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+223,0,Cercopithecus_petaurista,Lesser spot-nosed Monkey,Diurnal,MFF,AR,4.4,2.9,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+225,0,Cercopithecus_diana,Roloway Monkey,Diurnal,FFMM,AR,5.2,3.9,Cercopithecoidea,Primates,Cercopithecidae,Cercopithecus
+230,0,Cheirogaleus_major,Greater Dwarf Lemur,Nocturnal,MF,AR,0.5746,0.4433,Lemuroidea,Primates,Cheirogaleidae,Cheirogaleus
+232,0,Cheirogaleus_medius,Fat Tailed Dwarf Lemur,Nocturnal,MF,AR,NA,NA,Lemuroidea,Primates,Cheirogaleidae,Cheirogaleus
+238,0,Callicebus_lugens,White-chested Titi Monkey,Diurnal,MF,AR,1.49,1.26,Ceboidea,Primates,Pitheciidae,Callicebus
+243,0,Callicebus_torquatus,White-collared Titi Monkey,Diurnal,MF,AR,1.28,1.21,Ceboidea,Primates,Pitheciidae,Callicebus
+250,0,Chiropotes_satanas,Black Saki,Diurnal,FFMM,AR,3.1,2.96,Ceboidea,Primates,Pitheciidae,Chiropotes
+254,0,Chlorocebus_aethiops,Grivet Monkey,Diurnal,FFMM,T,5.77,3.53,Cercopithecoidea,Primates,Cercopithecidae,Chlorocebus
+261,1,Chlorocebus_pygerythrus,Vervet Monkey,Diurnal,FFMM,T,4.28,2.98,Cercopithecoidea,Primates,Cercopithecidae,Chlorocebus
+268,0,Colobus_angolensis,Black-and-White Angolian Colobus,Diurnal,MFF,AR,9.8,7.4,Cercopithecoidea,Primates,Cercopithecidae,Colobus
+276,0,Colobus_guereza,Black-and-White Colobus / Mantled Guereza,Diurnal,MFF,AR,9.89,7.9,Cercopithecoidea,Primates,Cercopithecidae,Colobus
+284,0,Colobus_polykomos,King Colobus,Diurnal,MFF,AR,9.9,8.3,Cercopithecoidea,Primates,Cercopithecidae,Colobus
+286,0,Colobus_satanas,Black Colobus,Diurnal,FFMM,AR,10.4,7.42,Cercopithecoidea,Primates,Cercopithecidae,Colobus
+290,0,Colobus_vellerosus,Ursine Colobus / Geoffroyís pied colobus,Diurnal,FFMM,AR,8.5,6.9,Cercopithecoidea,Primates,Cercopithecidae,Colobus
+292,0,Daubentonia_madagascariensis,Aye-Aye,Nocturnal,solitary,AR,2.62,2.49,Lemuroidea,Primates,Daubentoniidae,Daubentonia
+294,0,Erythrocebus_patas,Patas Monkey,Diurnal,MFF,T,12.4,6.5,Cercopithecoidea,Primates,Cercopithecidae,Erythrocebus
+301,0,Eulemur_collaris,Red-collared Brown Lemur,Cathemeral,FFMM,AR,2.07,2.217,Lemuroidea,Primates,Lemuridae,Eulemur
+305,0,Eulemur_flavifrons,Blue-eyed Black Lemur,Cathemeral,FFMM,AR,1.88,1.76,Lemuroidea,Primates,Lemuridae,Eulemur
+307,0,Eulemur_fulvus,Brown Lemur,Cathemeral,FFMM,AR,1.95,2.15,Lemuroidea,Primates,Lemuridae,Eulemur
+309,0,Eulemur_macaco,Black Lemur,Cathemeral,FFMM,AR,2.115,2.095,Lemuroidea,Primates,Lemuridae,Eulemur
+311,0,Eulemur_mongoz,Mongoose Lemur,Cathemeral_Diurnal_Nocturnal,MF,AR,1.41,1.56,Lemuroidea,Primates,Lemuridae,Eulemur
+313,0,Eulemur_rubriventer,Red-bellied Lemur,Cathemeral,MF,AR,2.067,1.96,Lemuroidea,Primates,Lemuridae,Eulemur
+315,0,Eulemur_rufifrons,Red-fronted Brown Lemur,Cathemeral,FFMM,AR,2.178,2.251,Lemuroidea,Primates,Lemuridae,Eulemur
+317,0,Eulemur_rufus,Rufous Brown Lemur,Cathemeral,FFMM,AR,2.165,2.27,Lemuroidea,Primates,Lemuridae,Eulemur
+334,0,Galagoides_zanzibaricus,Kenya Coast Dwarf Galago,Nocturnal,MF,AR,0.15,0.137,Lorisoidea,Primates,Galagidae,Galagoides
+336,1,Gorilla_beringei,Mountain Gorilla,Diurnal,FFMM,BOTH,162.5,97.5,Hominoidea,Primates,Hominidae,Gorilla
+339,0,Gorilla_gorilla,Western Lowland Gorilla,Diurnal,MFF,BOTH,NA,NA,Hominoidea,Primates,Hominidae,Gorilla
+346,0,Hapalemur_alaotrensis,Lac Alaotra Gentle Lemur,Cathemeral,MF,AR,NA,NA,Lemuroidea,Primates,Lemuridae,Hapalemur
+348,0,Hapalemur_aureus,Golden Bamboo Lemur,Diurnal,MF,AR,1.52,1.39,Lemuroidea,Primates,Lemuridae,Hapalemur
+350,0,Hapalemur_griseus,Gray Bamboo Lemur,Diurnal,MFF,AR,0.8675,0.7865,Lemuroidea,Primates,Lemuridae,Hapalemur
+352,0,Hapalemur_meridionalis,Southern Bamboo Lemur,Cathemeral_Diurnal,FFMM,AR,1.06875,1.075,Lemuroidea,Primates,Lemuridae,Hapalemur
+355,0,Hoolock_hoolock,Western Hoolock Gibbon,Diurnal,MF,AR,6.87,6.88,Hominoidea,Primates,Hylobatidae,Hoolock
+361,0,Hoolock_leuconedys,Eastern Hoolock Gibbon,Diurnal,MF,AR,NA,NA,Hominoidea,Primates,Hylobatidae,Hoolock
+365,0,Hylobates_agilis,Agile Gibbon,Diurnal,MF,AR,5.71,6.3,Hominoidea,Primates,Hylobatidae,Hylobates
+368,0,Hylobates_albibarbis,Bornean White-Bearded Gibbon,Diurnal,MF,AR,5.45,6.45,Hominoidea,Primates,Hylobatidae,Hylobates
+370,0,Hylobates_muelleri,East Bornean Gray Gibbon,Diurnal,MF,AR,5.63,5.37,Hominoidea,Primates,Hylobatidae,Hylobates
+372,0,Hylobates_klossii,Kloss's Gibbon,Diurnal,MF,AR,5.67,5.92,Hominoidea,Primates,Hylobatidae,Hylobates
+374,1,Hylobates_lar,Lar Gibbon,Diurnal,MF,AR,5.92,5.36,Hominoidea,Primates,Hylobatidae,Hylobates
+378,0,Hylobates_moloch,Moloch/Silvery Gibbon,Diurnal,MF,AR,6.58,6.25,Hominoidea,Primates,Hylobatidae,Hylobates
+380,0,Hylobates_muelleri,Müller's Gibbon,Diurnal,MF,AR,5.44,5.27,Hominoidea,Primates,Hylobatidae,Hylobates
+383,0,Hylobates_pileatus,Pileated Gibbon,Diurnal,MF,AR,5.5,5.44,Hominoidea,Primates,Hylobatidae,Hylobates
+387,0,Indri_indri,Indri,Diurnal,MF,AR,5.83,6.84,Lemuroidea,Primates,Indriidae,Indri
+391,0,Oreonax_flavicauda,Peruvian Yellow-tailed Wooly Monkey,Diurnal,FFMM,AR,8.5,6,Ceboidea,Primates,Atelidae,Oreonax
+393,0,Lagothrix_lagotricha,Humboldt's Wooly Monkey,Diurnal,FFMM, ,NA,6,Ceboidea,Primates,Atelidae,Lagothrix
+398,0,Lagothrix_poeppigii,Silvery Woolly Monkey,Diurnal,FFMM,AR,8.5,6,Ceboidea,Primates,Atelidae,Lagothrix
+401,0,Lemur_catta,Ring-Tailed Lemur,Diurnal,FFMM,BOTH,2.21,2.21,Lemuroidea,Primates,Lemuridae,Lemur
+404,0,Leontopithecus_caissara,Black-Faced Lion Tamarin,Diurnal,MF,AR,0.606,0.551,Ceboidea,Primates,Cebidae,Leontopithecus
+408,0,Leontopithecus_chrysopygus,Black Lion Tamarin,Diurnal,MF,AR,NA,NA,Ceboidea,Primates,Cebidae,Leontopithecus
+411,0,Leontopithecus_rosalia,Golden Lion Tamarin,Diurnal,MF,AR,0.62,0.598,Ceboidea,Primates,Cebidae,Leontopithecus
+420,0,Lepilemur_edwardsi,Milne-Edwards' Sportive Lemur,Nocturnal,MF,AR,0.928,0.934,Lemuroidea,Primates,Lepilemuridae,Lepilemur
+428,0,Lepilemur_leucopus,White-footed Sportive Lemur,Nocturnal,MF,AR,0.617,0.594,Lemuroidea,Primates,Lepilemuridae,Lepilemur
+433,0,Lepilemur_mustelinus,Weasel Sportive Lemur,Nocturnal,solitary,AR,NA,NA,Lemuroidea,Primates,Lepilemuridae,Lepilemur
+438,0,Lepilemur_ruficaudatus,Red-tailed Sportive Lemur,Nocturnal,MF,AR,0.729,0.7185,Lemuroidea,Primates,Lepilemuridae,Lepilemur
+446,0,Lophocebus_albigena,Grey-cheeked Mangabey,Diurnal,FFMM,AR,7.89,6.01,Cercopithecoidea,Primates,Cercopithecidae,Lophocebus
+450,1,Loris_lydekkerianus,Slender Loris,Nocturnal,solitary,BOTH,0.264,0.269,Lorisoidea,Primates,Lorisidae,Loris
+454,0,Macaca_arctoides,Stump-tailed Macaque,Diurnal,FFMM,BOTH,12.2,8.4,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+457,0,Macaca_assamensis,Assam(ese) Macaque,Diurnal,FFMM,AR,11.3,6.7,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+462,0,Macaca_cyclopis,Taiwanese / Formosan Rock Macaque,Diurnal,FFMM,BOTH,6,4.94,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+465,0,Macaca_fascicularis,Long-tailed/Crab-eating Macaque,Diurnal,FFMM,BOTH,4.85,3.22,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+476,0,Macaca_fuscata,Japanese Macaque,Diurnal,FFMM,BOTH,10.97,8.03,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+483,0,Macaca_leonina,Northern Pig-tailed Macaque,Diurnal,FFMM,AR,8.48,4.93,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+485,0,Macaca_maura,Moor Macaque,Diurnal,FFMM,BOTH,9.72,6.05,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+488,0,Macaca_mulatta,Rhesus Macaque,Diurnal,FFMM,BOTH,6.99,4.94,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+499,0,Macaca_munzala,Arunachal Macaque,Diurnal,FFMM,BOTH,15,NA,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+504,0,Macaca_nemestrina,Southern/Sunda Pig-tailed Macaque,Diurnal,FFMM,BOTH,11.2,6.59,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+507,0,Macaca_nigra,Crested black Macaque,Diurnal,FFMM,T,9.89,5.47,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+512,0,Macaca_radiata,Bonnet Macaque,Diurnal,FFMM,BOTH,6.6,3.69,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+522,0,Macaca_siberu,Siberut Macaque,Diurnal,FFMM,AR,7.5,5.25,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+524,0,Macaca_silenus,Lion-tailed Macaque / Ouanderou Macaque,Diurnal,FFMM,AR,8.9,6.1,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+527,0,Macaca_sinica,Toque Macaque,Diurnal,FFMM,AR,5.66,3.3,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+529,0,Macaca_sylvanus,Barbary Macaques,Diurnal,FFMM,BOTH,16,11,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+534,0,Macaca_thibetana,Tibetan Macaques,Diurnal,FFMM,T,18.3,12.8,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+537,0,Macaca_tonkeana,Tonkean Macaque,Diurnal,FFMM,BOTH,14.9,9,Cercopithecoidea,Primates,Cercopithecidae,Macaca
+539,0,Mandrillus_leucophaeus,Drill,Diurnal,FFMM,BOTH,20.75,9.25,Cercopithecoidea,Primates,Cercopithecidae,Mandrillus
+541,0,Mandrillus_sphinx,Mandrill,Diurnal,FFMM,AR,34.4,12.8,Cercopithecoidea,Primates,Cercopithecidae,Mandrillus
+546,0,Mico_argentatus,Silvery Marmoset,Diurnal,MF,AR,0.33,0.36,Ceboidea,Primates,Cebidae,Mico
+571,1,Microcebus_murinus,Gray Mouse Lemur,Nocturnal,solitary,AR,0.063,0.0672,Lemuroidea,Primates,Cheirogaleidae,Microcebus
+574,0,Microcebus_ravelobensis,Golden Brown Mouse Lemur,Nocturnal,solitary,AR,0.0517,0.05833,Lemuroidea,Primates,Cheirogaleidae,Microcebus
+581,0,Miopithecus_talapoin,Southern Talapoin Monkey,Diurnal,FFMM,BOTH,1.38,1.12,Cercopithecoidea,Primates,Cercopithecidae,Miopithecus
+584,0,Mirza_coquereli,Coquerel's Giant Mouse Lemur,Nocturnal,solitary,AR,0.3104,0.3125,Lemuroidea,Primates,Cheirogaleidae,Mirza
+587,0,Nasalis_larvatus,Proboscis Monkey,Diurnal,MFF,AR,21.02,10.48,Cercopithecoidea,Primates,Cercopithecidae,Nasalis
+594,1,Nomascus_concolor,Western Black Crested Gibbon,Diurnal,MFF,AR,7.77,7.62,Hominoidea,Primates,Hylobatidae,Nomascus
+596,0,Nomascus_gabriellae,Southern Yellow-Cheeked Crested Gibbon,Diurnal,MF,AR,NA,5.233,Hominoidea,Primates,Hylobatidae,Nomascus
+598,0,Nomascus_hainanus,Hainan Crested-Gibbon,Diurnal,MFF,AR,6.61,6.56333,Hominoidea,Primates,Hylobatidae,Nomascus
+601,0,Nomascus_nasutus,Eastern Black Crested Gibbon/Cao Vit Gibbon,Diurnal,MFF,AR,NA,NA,Hominoidea,Primates,Hylobatidae,Nomascus
+605,0,Nycticebus_coucang,Sunda Slow Loris,Nocturnal,solitary,AR,0.679,0.626,Lorisoidea,Primates,Lorisidae,Nycticebus
+610,0,Otolemur_crassicaudatus,Brown Greater Galago,Nocturnal,solitary,AR,1.19,1.11,Lorisoidea,Primates,Galagidae,Otolemur
+612,0,Otolemur_garnettii,Northern Greater Galago,Nocturnal,solitary,AR,0.794,0.734,Lorisoidea,Primates,Galagidae,Otolemur
+616,0,Pan_paniscus,Bonobo / Gracile(Pygmy) Chimpanzee,Diurnal,FFMM,BOTH,45,33.2,Hominoidea,Primates,Hominidae,Pan
+622,1,Pan_troglodytes,Chimpanzee,Diurnal,FFMM,BOTH,60,47.4,Hominoidea,Primates,Hominidae,Pan
+631,0,Papio_anubis,Olive baboon,Diurnal,FFMM,BOTH,21.1,12.2,Cercopithecoidea,Primates,Cercopithecidae,Papio
+638,0,Papio_cynocephalus,Yellow baboon,Diurnal,FFMM,T,21.8,12.3,Cercopithecoidea,Primates,Cercopithecidae,Papio
+645,0,Papio_hamadryas,Hamadryas baboon,Diurnal,MFF,T,16.9,9.9,Cercopithecoidea,Primates,Cercopithecidae,Papio
+650,0,Papio_papio,Guinea baboon,Diurnal,FFMM,T,23,12,Cercopithecoidea,Primates,Cercopithecidae,Papio
+653,0,Papio_ursinus,Chacma baboon,Diurnal,FFMM,T,29.8,14.8,Cercopithecoidea,Primates,Cercopithecidae,Papio
+662,0,Perodicticus_potto,Western african Potto,Nocturnal,solitary,AR,0.83,0.836,Lorisoidea,Primates,Lorisidae,Perodicticus
+666,0,Phaner_furcifer,Masoala Fork-Marked Lemur,Nocturnal,MF,AR,0.328,0.351,Lemuroidea,Primates,Cheirogaleidae,Phaner
+670,0,Procolobus_badius,Upper Guinea Red Colobus / Red Colobus monkey,Diurnal,FFMM,AR,8.3,8.2,Cercopithecoidea,Primates,Cercopithecidae,Procolobus
+676,0,Procolobus_kirkii,Kirk's Red Colobus,Diurnal,FFMM,AR,7,6.8,Cercopithecoidea,Primates,Cercopithecidae,Procolobus
+678,0,Procolobus_rufomitratus,Oustalet's Red Colobus,Diurnal,MFF,AR,12.5,8.2,Cercopithecoidea,Primates,Cercopithecidae,Procolobus
+682,0,Procolobus_rufomitratus,Tana River Red Colobus,Diurnal,MFF,AR,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Procolobus
+688,0,Pithecia_aequatorialis,Equatorial Saki,Diurnal,MF,AR,NA,NA,Ceboidea,Primates,Pitheciidae,Pithecia
+692,0,Pithecia_chrysocephala,Golden-faced Saki,Diurnal,MFF,AR,1.9,1.9,Ceboidea,Primates,Pitheciidae,Pithecia
+694,0,Pithecia_irrorata,Gray's Bald-faced Saki,Diurnal,MFF,AR,2.25,2.07,Ceboidea,Primates,Pitheciidae,Pithecia
+698,0,Pithecia_pithecia,White-faced Saki,Diurnal,MF,AR,1.94,1.58,Ceboidea,Primates,Pitheciidae,Pithecia
+710,0,Callicebus_discolor,Red-crowned Titi Monkey,Diurnal,MF,AR,0.93,1.08,Ceboidea,Primates,Pitheciidae,Callicebus
+717,0,Callicebus_oenanthe,Andean Titi Monkey,Diurnal,MF,AR,NA,NA,Ceboidea,Primates,Pitheciidae,Callicebus
+723,0,Pongo_pygmaeus,Western Bornean Orangutan,Diurnal,solitary,AR,78.5,35.8,Hominoidea,Primates,Pongidae,Pongo
+727,0,Presbytis_comata,Grizzled Langur,Diurnal,MF,AR,6.68,6.71,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+731,0,Presbytis_frontata,White-fronted Langur,Diurnal,MF,AR,5.56,5.67,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+733,0,Presbytis_hosei,Hose's Langur,Diurnal,MF,AR,6.18,5.63,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+735,0,Presbytis_melalophos,Banded Langur,Diurnal,MFF,AR,6.59,6.47,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+738,0,Presbytis_natunae,Natuna Leaf Monkey,Diurnal,MF,AR,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+740,0,Presbytis_potenziani,Mentawai Island Langur,Diurnal,MF,AR,6.14,6.41,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+743,0,Presbytis_rubicunda,Red/Maroon Langur,Diurnal,MFF,AR,6.22,6.04,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+748,0,Presbytis_thomasi,Thomas' Langur,Diurnal,MFF,AR,6.77,6.69,Cercopithecoidea,Primates,Cercopithecidae,Presbytis
+752,0,Procolobus_verus,Olive Colobus,Diurnal,MFF,AR,4.7,4.2,Cercopithecoidea,Primates,Cercopithecidae,Procolobus
+755,0,Prolemur_simus,Greater Bamboo Lemur,Cathemeral,MFF,AR,1.769,2.2,Lemuroidea,Primates,Lemuridae,Prolemur
+762,1,Propithecus_edwardsi,Milne-Edwards' Sifaka,Diurnal,FFMM,AR,5.59,5.895,Lemuroidea,Primates,Indriidae,Propithecus
+764,0,Propithecus_perrieri,Perrier's Sifaka,Diurnal,MFF,AR,4.22,4.44,Lemuroidea,Primates,Indriidae,Propithecus
+767,0,Propithecus_verreauxi,Verreaux's Sifaka,Diurnal,FFMM,AR,2.885,2.87,Lemuroidea,Primates,Indriidae,Propithecus
+774,0,Pygathrix_nemaeus,Red Shanked Douc,Diurnal,FFMM,AR,11,8.44,Cercopithecoidea,Primates,Cercopithecidae,Pygathrix
+776,0,Pygathrix_nigripes,Black Shanked Douc,Diurnal,FFMM,AR,11.05,8.7,Cercopithecoidea,Primates,Cercopithecidae,Pygathrix
+780,0,Rhinopithecus_avunculus,Tonkin Snub-Nosed Monkey,Diurnal,MFF,AR,14,8.5,Cercopithecoidea,Primates,Cercopithecidae,Rhinopithecus
+783,0,Rhinopithecus_bieti,Yunnan/Black-and-White Snub-Nosed Langur,Diurnal,MFF,BOTH,15,9.96,Cercopithecoidea,Primates,Cercopithecidae,Rhinopithecus
+788,0,Rhinopithecus_brelichi,Gray Snub-Nosed Monkey,Diurnal,MFF,BOTH,14.5,8,Cercopithecoidea,Primates,Cercopithecidae,Rhinopithecus
+790,0,Rhinopithecus_roxellana,Golden Snub-Nosed Monkey,Diurnal,MFF,BOTH,17.9,11.6,Cercopithecoidea,Primates,Cercopithecidae,Rhinopithecus
+793,0,Rhinopithecus_strykeri,Burmese Snub-Nosed Monkey,Diurnal,MFF,BOTH,14,8.5,Cercopithecoidea,Primates,Cercopithecidae,Rhinopithecus
+795,0,Rungwecebus_kipunji,Kipunji/Highland Mangabey,Diurnal,FFMM,AR,10,NA,Cercopithecoidea,Primates,Cercopithecidae,Rungwecebus
+798,0,Leontocebus_nigricollis,Brown Mantled Tamarin,Diurnal,FMM,NA,NA,NA,Ceboidea,Primates,Cebidae,Leontocebus
+803,0,Saguinus_imperator,Emperor Tamarin,Diurnal,MFF,AR,0.474,0.475,Ceboidea,Primates,Cebidae,Saguinus
+806,0,Saguinus_labiatus,Red-bellied Tamarin,Diurnal,FMM,AR,0.49,0.529,Ceboidea,Primates,Cebidae,Saguinus
+813,0,Saguinus_mystax,Mustached Tamarin,Diurnal,FFMM,AR,0.522,0.545,Ceboidea,Primates,Cebidae,Saguinus
+817,0,Leontocebus_nigricollis,Black Mantled Tamarin,Diurnal,MF,NA,NA,NA,Ceboidea,Primates,Cebidae,Leontocebus
+819,0,Saguinus_oedipus,Cotton-top Tamarin,Diurnal,FFMM,AR,0.418,0.404,Ceboidea,Primates,Cebidae,Saguinus
+824,0,Saimiri_sciureus,Guianan Squirrel Monkey,Diurnal,FFMM,AR,0.92,0.723,Ceboidea,Primates,Cebidae,Saimiri
+828,1,Sapajus_apella,Cuianan Brown Capuchin,Diurnal,FFMM,AR,3.64,2.39,Ceboidea,Primates,Cebidae,Sapajus
+834,0,Sapajus_cay,Hooded Capuchin,Diurnal,FFMM,AR,NA,NA,Ceboidea,Primates,Cebidae,Sapajus
+836,0,Sapajus_flavius,Blond Capuchin,Diurnal,FFMM,AR,2.95,2.15,Ceboidea,Primates,Cebidae,Sapajus
+838,0,Sapajus_libidinosus,Bearded Capuchin,Diurnal,FFMM,AR,3.1,1.975,Ceboidea,Primates,Cebidae,Sapajus
+842,0,Sapajus_nigritus,Black-horned Capuchin,Diurnal,FFMM,AR,NA,NA,Ceboidea,Primates,Cebidae,Sapajus
+854,0,Semnopithecus_ajax,Himalayan/Kashmir Grey Langur,Diurnal,FFMM,BOTH,20.15,NA,Cercopithecoidea,Primates,Cercopithecidae,Semnopithecus
+856,0,Semnopithecus_entellus,Hanuman/Northern Plain Grey Langur,Diurnal,MFF,T,13,9.89,Cercopithecoidea,Primates,Cercopithecidae,Semnopithecus
+864,0,Semnopithecus_hypoleucos,Black-Footed Grey Langur / Malabar Sacred Langur,Diurnal,MFF,BOTH,14.75,11.45,Cercopithecoidea,Primates,Cercopithecidae,Semnopithecus
+867,0,Semnopithecus_schistaceus,Nepal Grey langur,Diurnal,FFMM,BOTH,19.2,14.8,Cercopithecoidea,Primates,Cercopithecidae,Semnopithecus
+869,0,Simias_concolor,Pig-tailed Langur / Simakobu Monkey,Diurnal,MFF,AR,9.15,6.8,Cercopithecoidea,Primates,Cercopithecidae,Simias
+873,0,Symphalangus_syndactylus,Siamang,Diurnal,MF,AR,11.9,10.7,Hominoidea,Primates,Hylobatidae,Symphalangus
+877,0,Tarsius_bancanus,Western Tarsier,Nocturnal,solitary,NA,NA,NA,Tarsioidea,Primates,Tarsiidae,Tarsius
+880,1,Tarsius_lariang,Lariang Tarsier,Nocturnal,MF,AR,0.118,0.102,Tarsioidea,Primates,Tarsiidae,Tarsius
+883,0,Tarsius_pumilus,Sulawesi Mountain/Pygmy Tariser,Nocturnal,FMM,AR,0.0491,0.052,Tarsioidea,Primates,Tarsiidae,Tarsius
+885,0,Tarsius_sangirensis,Great Sangihe Tarsier,Nocturnal,MF,AR,0.135,0.15,Tarsioidea,Primates,Tarsiidae,Tarsius
+887,0,Tarsius_syrichta,Philippine Tarsier,Nocturnal,solitary,AR,NA,NA,Tarsioidea,Primates,Tarsiidae,Tarsius
+890,0,Tarsius_tarsier,Spectral/Selayar Tarsier,Nocturnal,MF,AR,0.126,0.119,Tarsioidea,Primates,Tarsiidae,Tarsius
+894,0,Theropithecus_gelada,Gelada Baboon,Diurnal,MFF,T,19,11.7,Cercopithecoidea,Primates,Cercopithecidae,Theropithecus
+898,0,Trachypithecus_auratus,Javan Lutung,Diurnal,MFF,AR,7.1,NA,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+902,0,Trachypithecus_cristatus,Silvered leaf Monkey,Diurnal,FFMM,AR,6.72,5.78,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+905,0,Trachypithecus_francoisi,FranÁois' Langur,Diurnal,MFF,BOTH,7.7,7.35,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+908,0,Trachypithecus_geei,Golden Langur,Diurnal,MFF,AR,10.8,9.5,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+910,0,Trachypithecus_germaini,Germain's Langur,Diurnal,MFF,AR,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+914,0,Trachypithecus_johnii,Nilgiri Langur,Diurnal,FFMM,NA,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+919,0,Trachypithecus_obscurus,Dusky/Spectacled Leaf Monkey,Diurnal,MFF,AR,7.77,6.22,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+922,0,Trachypithecus_phayrei,Phayre's leaf Monkey,Diurnal,MFF,AR,7.93,6.95,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+924,0,Trachypithecus_pileatus,Capped Langur,Diurnal,MFF,AR,12,9.86,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+926,0,Trachypithecus_poliocephalus,Cat Ba Langur,Diurnal,MFF,BOTH,8.75,7.35,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+930,0,Trachypithecus_shortridgei,Shortridge's capped Langur,Diurnal,MFF,AR,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+932,0,Trachypithecus_vetulus,Purple-faced Leaf Monkey,Diurnal,MFF,NA,NA,NA,Cercopithecoidea,Primates,Cercopithecidae,Trachypithecus
+936,1,Varecia_variegata,Black-and-white Ruffed Lemur,Diurnal,FFMM,AR,3.63,3.52,Lemuroidea,Primates,Lemuridae,Varecia
+937,1,Mus_musculus,,,FFMM,,0.0171,0.0143,,Rodentia,,Mus
+938,1,Oryctolagus_cuniculus,,,FFMM,,1.175,1.175,,Lagomorpha,,Oryctolagus
+939,1,Tupaia_belangeri,,,solitary,,0.2,0.2,,Scandentia,,Tupaia
+940,1,Galeopterus_variegatus,,,solitary,,1.025,1.025,,Dermoptera,,Galeopterus
