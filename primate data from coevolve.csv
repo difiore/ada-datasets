@@ -1,0 +1,144 @@
+species,clade,brain_weight,body_weight,diet,percent_fruit,social_system,mating_system,group_size
+Alouatta_caraya,Atelidae,52.71988304080903,5596.653333333333,Folivore,25,Polygynandry,Harem Polygyny,6.683333333333334
+Alouatta_palliata,Atelidae,50.90798009333334,6358.996666666666,Folivore,42,Polygynandry,Harem Polygyny,15.5484375
+Alouatta_pigra,Atelidae,52.9655,8940,Folivore,NA,Polygynandry,Harem Polygyny,5.933333333333334
+Alouatta_seniculus,Atelidae,56.57012962526252,6247.359743589744,Folivore,42,Polygynandry,Harem Polygyny,6.965000000000001
+Aotus_azarai,Cebidae,21.41265233333333,1073.19,Frugivore/Folivore,NA,Pair,Monogamy,3
+Aotus_lemurinus,Cebidae,16.781958317443618,869.98,Frugivore,NA,Pair,Monogamy,3.5
+Aotus_trivirgatus,Cebidae,17.213324157213922,870.8000000000001,Frugivore,45.5,Pair,Monogamy,3.5125
+Arctocebus_calabarensis,Loridae,7.170563430191403,239.33666666666667,Omnivore,NA,Solitary,Spatial Polygyny,1.25
+Ateles_belzebuth,Atelidae,118.5758737296878,6409.139999999999,Frugivore/Folivore,83,Polygynandry,Polygynandry,16.4
+Ateles_fusciceps,Atelidae,114.58742407692307,8033.97,Frugivore,NA,Polygynandry,Polygynandry,5
+Ateles_geoffroyi,Atelidae,108.53500063110799,6711.8,Frugivore,68.7,Polygynandry,Polygynandry,28.017857142857142
+Ateles_paniscus,Atelidae,105.94103448275861,7789.5277777777765,Frugivore,82.9,Polygynandry,Polygynandry,25.5
+Avahi_laniger,Lemuriformes,10.25135534375,1300,Folivore,0,Pair,Monogamy,2.6666666666666665
+Avahi_occidentalis,Lemuriformes,8.2362,795.5,Folivore,NA,Pair,Monogamy,NA
+Brachyteles_arachnoides,Atelidae,120.1,9247.5,Frugivore/Folivore,NA,Polygynandry,Polygynandry,27.083333333333332
+Cacajao_calvus,Pitheciidae,73.3,3293.02,Frugivore,18,Polygynandry,Harem Polygyny,15
+Callicebus_moloch,Pitheciidae,17.725,883.805238095238,Frugivore,53.7,Pair,Monogamy,3.3666666666666663
+Callicebus_torquatus,Pitheciidae,20.55927496,1152.5,Frugivore,33,Pair,Monogamy,3.575
+Callimico_goeldii,Cebidae,11.751886923076926,538.5,Omnivore,NA,Pair,Monogamy,6.5
+Callithrix_argentata,Cebidae,8.045805331733334,361.1233333333334,Omnivore,NA,Pair,Monogamy,6.199999999999999
+Callithrix_geoffroyi,Cebidae,8.642857142857142,342,Omnivore,NA,Pair,Monogamy,9
+Callithrix_jacchus,Cebidae,7.643613607448276,272.705,Frugivore,22,Pair,Polyandry,7.877777777777778
+Callithrix_penicillata,Cebidae,7.5547744209409995,323.49,Omnivore,NA,Pair,Monogamy,6.6
+Callithrix_pygmaea,Cebidae,4.4520870640000005,125.81333333333333,Omnivore,0,Pair,Polyandry,5.628571428571428
+Cebus_albifrons,Cebidae,64.71480309856025,2535.56,Omnivore,24.6,Polygynandry,Polygynandry,21.125
+Cebus_apella,Cebidae,68.74714507927239,2669.21,Omnivore,36,Polygynandry,Polygynandry,12.059999999999999
+Cebus_capucinus,Cebidae,73.78615671772882,2798.107777777777,Omnivore,67.5,Polygynandry,Harem Polygyny,16.96875
+Cebus_olivaceus,Cebidae,72.96288722470901,2646.8799999999997,Omnivore,46.7,Polygynandry,Polygynandry,22.419999999999998
+Cercocebus_agilis,Papionini,118.3199845,7552.8099999999995,Frugivore,NA,Polygynandry,Polygynandry,15
+Cercocebus_torquatus_atys,Papionini,99.80592857142857,7770.62,Frugivore,NA,Polygynandry,Polygynandry,95
+Cercocebus_galeritus,Papionini,102.63695512000001,7837.5,Frugivore,80.1,Polygynandry,Polygynandry,21.8
+Cercocebus_torquatus,Papionini,111.43379390156467,8239.80111111111,Frugivore,79,Polygynandry,Polygynandry,30.166666666666668
+Chlorocebus_pygerythrus,Cercopithecini,64.77661443698511,4060,Frugivore,NA,Polygynandry,Polygynandry,40.5
+Cercopithecus_ascanius,Cercopithecini,63.615335381166275,4156.746666666667,Frugivore,60.80000000000001,Polygyny,Harem Polygyny,26.29375
+Cercopithecus_campbelli,Cercopithecini,58.981959923756975,3775.91,Frugivore,78,Polygyny,Harem Polygyny,9.625
+Cercopithecus_cephus,Cercopithecini,67.92507550123456,3516.626666666667,Frugivore,79,Polygyny,Harem Polygyny,10.75
+Cercopithecus_diana,Cercopithecini,64.86223333333335,4519.636666666666,Frugivore,52,Polygyny,Harem Polygyny,20.3
+Cercopithecus_lhoesti,Cercopithecini,76,5003.735000000001,Frugivore,NA,Polygyny,Harem Polygyny,14.2
+Cercopithecus_mitis,Cercopithecini,73.95943937562303,6335.43,Frugivore,54.5,Polygynandry,Harem Polygyny,21.275
+Cercopithecus_mona,Cercopithecini,65.69504887025997,4466.723333333333,Frugivore,NA,Polygyny,Harem Polygyny,21.5
+Cercopithecus_neglectus,Cercopithecini,67.54299589569969,5589.84,Frugivore,77,Polygyny,Harem Polygyny,5
+Cercopithecus_nictitans,Cercopithecini,73.6855,5178.136666666666,Frugivore,67.1,Polygyny,Harem Polygyny,18.25
+Cercopithecus_pogonias,Cercopithecini,63.267944444444446,3588.09,Frugivore,82.9,Polygyny,Harem Polygyny,14.833333333333334
+Cheirogaleus_major,Lemuriformes,6.119796595,430.34,Omnivore,NA,Solitary,Spatial Polygyny,5.5
+Cheirogaleus_medius,Lemuriformes,2.9122909090909093,188.88,Omnivore,NA,Solitary,Monogamy,2
+Chiropotes_satanas,Pitheciidae,50.07019857,2955.135,Frugivore,16.2,Polygynandry,Polygynandry,19.5
+Chlorocebus_aethiops,Cercopithecini,63.9237879839603,4214.496666666667,Frugivore,NA,Polygynandry,Polygynandry,22.569230769230767
+Colobus_angolensis,Colobinae,71.5639115382872,8807.654999999999,Folivore,14.9,Polygynandry,Harem Polygyny,9
+Piliocolobus_badius,Colobinae,65.96776666473498,8105,Folivore,11,Polygynandry,Polygynandry,29.180000000000003
+Colobus_guereza,Colobinae,77.37075498322841,10052.376666666665,Folivore,14,Polygynandry,Harem Polygyny,8.6
+Colobus_polykomos,Colobinae,76.02049416202797,9118.54111111111,Folivore,21.4,Polygynandry,Harem Polygyny,11
+Colobus_satanas,Colobinae,80.2,10750,Folivore,4,Polygynandry,Polygynandry,14.333333333333334
+Procolobus_verus,Colobinae,54.528711236560255,4025,Folivore,9,Polygynandry,Polygynandry,8
+Daubentonia_madagascariensis,Lemuriformes,46.344725257083184,2603.1233333333334,Omnivore,0,Solitary,Spatial Polygyny,1.75
+Erythrocebus_patas,Cercopithecini,97.87219042,7858.15,Omnivore,75,Polygyny,Harem Polygyny,26.519999999999996
+Eulemur_coronatus,Lemuriformes,21.394397520000002,2099.925,Frugivore/Folivore,NA,Polygynandry,Polygynandry,6.95
+Eulemur_fulvus_fulvus,Lemuriformes,24.786248923081324,2332.33,Frugivore/Folivore,46,Polygynandry,Polygynandry,10.08
+Eulemur_macaco_macaco,Lemuriformes,24.634207236363636,2336.81,Frugivore/Folivore,NA,Polygynandry,Polygynandry,8.966666666666667
+Eulemur_mongoz,Lemuriformes,21.45154486588235,1810.3766666666668,Frugivore/Folivore,18,Pair,Monogamy,2.6999999999999997
+Eulemur_rubriventer,Lemuriformes,26.92409914613587,1726.8,Frugivore/Folivore,NA,Pair,Monogamy,3.1
+Euoticus_elegantulus,Galagonidae,5.733931588,303.49333333333334,Omnivore,5,Solitary,Spatial Polygyny,2.5
+Galago_alleni,Galagonidae,6.1,250,Omnivore,73,Solitary,Spatial Polygyny,1.75
+Galago_moholi,Galagonidae,3.8386365699284006,183.48000000000002,Omnivore,NA,Solitary,Spatial Polygyny,2
+Galago_senegalensis,Galagonidae,4.1296899167485215,210.41111111111096,Omnivore,0,Solitary,Spatial Polygyny,1
+Galagoides_demidoff,Galagonidae,3.38,62.23555555555553,Omnivore,19,Solitary,Spatial Polygyny,2.25
+Galagoides_zanzibaricus,Galagonidae,3.6411851700000004,147.35,Omnivore,NA,Solitary,Spatial Polygyny,3.5
+Gorilla_beringei,Hominoidea,508.95913880000006,136212.595,Folivore,NA,Polygyny,Harem Polygyny,13
+Gorilla_gorilla_gorilla,Hominoidea,507.2466268656716,121326.99666666666,Folivore,67,Polygyny,Harem Polygyny,10.047058823529412
+Hapalemur_griseus,Lemuriformes,14.6002444,1021.3333333333334,Folivore,NA,Pair,Monogamy,3.55
+Hylobates_agilis,Hominoidea,90.647625,5251.36,Frugivore/Folivore,61,Pair,Monogamy,3.95
+Hylobates_klossii,Hominoidea,92.04337337999999,5861.145,Omnivore,72,Pair,Monogamy,3.6000000000000005
+Hylobates_lar,Hominoidea,105.27639696220109,5462.87,Frugivore,60,Pair,Monogamy,3.5142857142857147
+Hylobates_moloch,Hominoidea,106.708,6034.405000000001,Frugivore/Folivore,61,Pair,Monogamy,3.5
+Hylobates_muelleri,Hominoidea,90.89279580220634,5837.405000000001,Frugivore/Folivore,NA,Pair,Monogamy,3.45
+Hylobates_pileatus,Hominoidea,87.73385185185184,5638.6849999999995,Frugivore/Folivore,79.4,Pair,Monogamy,3.85
+Indri_indri,Lemuriformes,36.30860992222223,10500,Folivore,33,Pair,Monogamy,3.28
+Lagothrix_lagotricha,Atelidae,99.68833333333333,7647.8966666666665,Omnivore,65.7,Polygynandry,Polygynandry,20.30909090909091
+Lemur_catta,Lemuriformes,23.245579738461537,2380.4933333333333,Frugivore,54,Polygynandry,Polygynandry,15.75
+Leontopithecus_chrysomelas,Cebidae,12.261858501034128,613.65,Omnivore,NA,Pair,Monogamy,6.7
+Leontopithecus_rosalia,Cebidae,13.115867681409885,623.51,Omnivore,84,Pair,Monogamy,5.4
+Lepilemur_mustelinus,Lemuriformes,9.90406676,625,Folivore,6,Solitary,Spatial Polygyny,1.5
+Lepilemur_ruficaudatus,Lemuriformes,8.4434,750,Folivore,NA,Solitary,Spatial Polygyny,NA
+Lophocebus_albigena,Papionini,97.4890934778488,7932.236666666667,Frugivore,NA,Polygynandry,Polygynandry,15.680952380952384
+Lophocebus_aterrimus,Papionini,108.90500721333335,6655.1849999999995,Frugivore,NA,Polygynandry,Polygynandry,9.5
+Loris_tardigradus,Loridae,6.05152171,269.8066666666667,Omnivore,15,Solitary,Spatial Polygyny,2
+Macaca_arctoides,Papionini,101.05787664629703,7877.68,Frugivore,NA,Polygynandry,Polygynandry,13.75
+Macaca_fascicularis,Papionini,66.52984080927277,4644.106666666667,Frugivore,66.9,Polygynandry,Polygynandry,27.521428571428572
+Macaca_fuscata,Papionini,98.59266666666667,9498.880000000001,Frugivore/Folivore,44,Polygynandry,Polygynandry,64.65
+Macaca_mulatta,Papionini,88.94143559254883,6471.73,Frugivore,63,Polygynandry,Polygynandry,36.3625
+Macaca_nemestrina,Papionini,109.87114341909933,7244.593333333333,Frugivore,75,Polygynandry,Polygynandry,31.560000000000002
+Macaca_nigra,Papionini,91.456,7662.195,Frugivore,NA,Polygynandry,Polygynandry,47
+Macaca_radiata,Papionini,79.46647348825516,5877.495,Frugivore,53,Polygynandry,Polygynandry,28.860000000000003
+Macaca_silenus,Papionini,82.88,6935.125,Omnivore,NA,Polygynandry,Polygynandry,19
+Macaca_sinica,Papionini,73.14189261058453,4512.995,Frugivore,75,Polygynandry,Polygynandry,24.8
+Macaca_sylvanus,Papionini,97.36450306502802,11173.265,Frugivore/Folivore,33,Polygynandry,Polygynandry,21.86
+Mandrillus_leucophaeus,Papionini,185.96200000000002,16251.65,Frugivore,NA,Polygynandry,Polygynandry,96.5
+Mandrillus_sphinx,Papionini,162.40872456,19842.53,Frugivore,92,Polygynandry,Polygynandry,95
+Microcebus_murinus,Lemuriformes,1.7208473313333332,63.93333333333334,Omnivore,51,Solitary,Spatial Polygyny,5.1
+Microcebus_rufus,Lemuriformes,1.7781921266666667,48.39,Omnivore,NA,Solitary,Spatial Polygyny,2.25
+Miopithecus_talapoin,Cercopithecini,37.7,1236.9533333333331,Omnivore,54,Polygynandry,Polygynandry,68.375
+Mirza_coquereli,Lemuriformes,6.004526759000001,315.23333333333335,Omnivore,NA,Solitary,Spatial Polygyny,1.5
+Nasalis_larvatus,Colobinae,96.21140264810325,13441.825,Folivore,23,Polygynandry,Harem Polygyny,9.940000000000001
+Nomascus_concolor,Hominoidea,131.7,6631.735000000001,Frugivore,NA,Pair,Monogamy,3.5
+Nycticebus_coucang,Loridae,10.728607080111763,838.35,Omnivore,60,Solitary,Spatial Polygyny,1
+Nycticebus_pygmaeus,Loridae,7.533648222285714,413.7733333333333,Omnivore,NA,Solitary,Spatial Polygyny,NA
+Otolemur_crassicaudatus,Galagonidae,12.201495011937988,1367.2033333333331,Omnivore,27,Solitary,Spatial Polygyny,2.25
+Otolemur_garnettii,Galagonidae,11.239041368840237,1055.585,Omnivore,NA,Solitary,Spatial Polygyny,NA
+Pan_paniscus,Hominoidea,346.2373866666667,37522.475,Frugivore,NA,Polygynandry,Polygynandry,67.5
+Pan_troglodytes_troglodytes,Hominoidea,376.12546072836943,48328,Frugivore,63,Polygynandry,Polygynandry,42.70714285714286
+Papio_anubis,Papionini,171.7975374131855,17209.52,Frugivore,13.6,Polygynandry,Polygynandry,47.045161290322575
+Papio_cynocephalus,Papionini,169.4079477462118,14290.716666666667,Frugivore,62,Polygynandry,Polygynandry,48.205
+Papio_hamadryas,Papionini,154.4376,12002.36,Frugivore/Folivore,88,Polygynandry,Harem Polygyny,41.125
+Papio_papio,Papionini,165.3,17811.025,Frugivore,NA,Polygynandry,Harem Polygyny,136.66666666666666
+Papio_ursinus,Papionini,195.4334721671404,20014.72,Frugivore/Folivore,87,Polygynandry,Polygynandry,41.099999999999994
+Perodicticus_potto,Loridae,12.845604154205047,1124.4922222222199,Omnivore,65,Solitary,Spatial Polygyny,1.25
+Pithecia_pithecia,Pitheciidae,33.351977233099184,1573.595,Frugivore,31.4,Polygynandry,Polygynandry,2.6500000000000004
+Pongo_abelii,Hominoidea,409.5198447714377,48223.06,Frugivore,NA,Solitary,Spatial Polygyny,2
+Pongo_pygmaeus,Hominoidea,382.4565084657175,55279.145000000004,Frugivore,64,Solitary,Spatial Polygyny,1.5999999999999999
+Presbytis_comata,Colobinae,61.124,6460,Folivore,NA,Polygyny,Harem Polygyny,7
+Presbytis_melalophos,Colobinae,66.90504328910599,5326.373333333333,Folivore,24,Polygynandry,Harem Polygyny,12.766666666666666
+Propithecus_diadema,Lemuriformes,41.23209679560062,7500,Folivore,20,Polygynandry,Polygynandry,5.55
+Propithecus_verreauxi,Lemuriformes,27.049451386666668,3389.42,Folivore,41,Polygynandry,Polygynandry,5.92
+Pygathrix_nemaeus,Colobinae,91.95635895553154,9250.366666666667,Folivore,NA,Polygynandry,Harem Polygyny,21.45
+Saguinus_fuscicollis,Cebidae,8.147165525596314,406.83,Omnivore,60.400000000000006,Pair,Polyandry,5.7
+Saguinus_geoffroyi,Cebidae,14.129407569902865,495.9,Omnivore,NA,Pair,Monogamy,5.15
+Saguinus_midas,Cebidae,10.122701059646136,551.4533333333333,Omnivore,69,Pair,Polyandry,5
+Saguinus_mystax,Cebidae,11.52349279425696,541.2185714285714,Omnivore,NA,NA,NA,5.3
+Saguinus_oedipus,Cebidae,9.759725424720388,388.84666666666664,Omnivore,NA,Pair,Polyandry,6.298333333333333
+Saimiri_boliviensis,Cebidae,25.73991793757433,707.225,Omnivore,NA,NA,NA,20
+Saimiri_oerstedii,Cebidae,23.10847226871795,670,Omnivore,NA,Polygynandry,Polygynandry,24
+Saimiri_sciureus,Cebidae,24.14173107457126,811.4900000000001,Omnivore,28,Polygynandry,Polygynandry,37.80833333333333
+Semnopithecus_entellus,Colobinae,113.78037780975926,11398.763333333334,Folivore,24.4,Polygynandry,Harem Polygyny,24.75
+Symphalangus_syndactylus,Hominoidea,128.88913784937535,9246.333333333334,Folivore,47,Pair,Monogamy,3.8600000000000003
+Tarsius_bancanus,Tarsiidae,3.249839526599711,104.83,Omnivore,NA,Solitary,Spatial Polygyny,2
+Tarsius_syrichta,Tarsiidae,3.4796355315555556,107.53666666666668,Omnivore,0,Solitary,Spatial Polygyny,2
+Theropithecus_gelada,Papionini,136.20732394285716,14788.036666666667,Frugivore,26,Polygynandry,Harem Polygyny,151.3
+Trachypithecus_cristatus,Colobinae,59.14751403772301,5453.936666666667,Folivore,19,Polygynandry,Harem Polygyny,24.75
+Trachypithecus_johnii,Colobinae,86.48189389422564,11098.36,Folivore,21,Polygynandry,Harem Polygyny,16.5
+Trachypithecus_obscurus,Colobinae,63.66254876920468,5775.96,Folivore,35,Polygynandry,Harem Polygyny,10.3
+Trachypithecus_phayrei,Colobinae,76.73630109173077,8040.860000000001,Folivore,NA,Polygyny,Harem Polygyny,8.8
+Trachypithecus_pileatus,Colobinae,107.37191864984632,10153.31,Folivore,NA,Polygyny,Harem Polygyny,6.2
+Trachypithecus_vetulus,Colobinae,63.49900193294666,7705.693333333334,Folivore,NA,Polygyny,Harem Polygyny,13
+Varecia_variegata_variegata,Lemuriformes,32.639348002245626,3335,Frugivore,73.9,Pair,Monogamy,5.933333333333334
