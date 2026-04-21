@@ -1,0 +1,16 @@
+Package: plotgpx
+Title: Plot GPX Package
+Version: 0.0.1.0
+Authors@R: 
+  person(given = "Anthony",
+         family = "Di Fiore",
+         role = c("aut", "cre"),
+         email = "anthony.difiore@gmail.com",
+         comment = c(ORCID = "0000-0001-8893-9052"))
+Description:
+  The single function in this package allows a user to select, load, and visualize a GPX file. If no filename is specified, it opens an interactive file chooser so the user can select one. The function then parses the track points and renders an interactive map with an elevation profile panel below it (if the GPX file includes elevation data).
+Depends: R (>= 4.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
