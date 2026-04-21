@@ -1,0 +1,17 @@
+---
+title: "Plot a GPX Files"
+vignette: >
+  %\VignetteIndexEntry{Plot a GPX Files}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: '#>'
+---
+
+```{r}
+#| label: setup
+library(plotgpx)
+results <- plotgpx("/Users/ad26693/Desktop/2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min.gpx")
+```
