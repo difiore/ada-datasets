@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="R">
+  <trk>
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_track</name>
+    <trkseg>
+      <trkpt lat="-0.629643634891583" lon="-76.1455679358994">
+        <time>2015-09-19 11:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.62959847040651" lon="-76.1455752141652">
+        <time>2015-09-19 11:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.629421521441672" lon="-76.1450267652907">
+        <time>2015-09-19 11:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.629284596075145" lon="-76.1446404224324">
+        <time>2015-09-19 12:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627876520147575" lon="-76.1448006564804">
+        <time>2015-09-19 12:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.62778019113305" lon="-76.1458218866072">
+        <time>2015-09-19 12:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627750840500222" lon="-76.1458849674073">
+        <time>2015-09-19 12:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627860000791512" lon="-76.145906620649">
+        <time>2015-09-19 13:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.62777944374175" lon="-76.1458741337991">
+        <time>2015-09-19 13:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.627830678133506" lon="-76.1458781571075">
+        <time>2015-09-19 13:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627811085425401" lon="-76.145851656324">
+        <time>2015-09-19 13:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627818412608548" lon="-76.1459310958239">
+        <time>2015-09-19 14:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627839646767596" lon="-76.1459004669488">
+        <time>2015-09-19 14:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.627816498742225" lon="-76.1458120238909">
+        <time>2015-09-19 14:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.62783928355931" lon="-76.1457909573904">
+        <time>2015-09-19 14:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627862585234339" lon="-76.1459121247737">
+        <time>2015-09-19 15:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627857695800177" lon="-76.1458820267656">
+        <time>2015-09-19 15:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.62774690101666" lon="-76.1458506155824">
+        <time>2015-09-19 15:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627791646408779" lon="-76.1459243693406">
+        <time>2015-09-19 15:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627738037150241" lon="-76.1459041270323">
+        <time>2015-09-19 16:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627752384166689" lon="-76.1458903527907">
+        <time>2015-09-19 16:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.627754863825182" lon="-76.1459502903656">
+        <time>2015-09-19 16:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627709755208483" lon="-76.1459244042574">
+        <time>2015-09-19 16:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627760360941574" lon="-76.1458780942409">
+        <time>2015-09-19 17:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627984066959594" lon="-76.1461691488399">
+        <time>2015-09-19 17:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.628111017875011" lon="-76.146298097449">
+        <time>2015-09-19 17:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.628321703991697" lon="-76.1466019414409">
+        <time>2015-09-19 17:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.628533815041735" lon="-76.1467029852741">
+        <time>2015-09-19 18:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.628506615741593" lon="-76.1470335465742">
+        <time>2015-09-19 18:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.629248910124949" lon="-76.1466956231741">
+        <time>2015-09-19 18:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.629909390116765" lon="-76.1464329901992">
+        <time>2015-09-19 18:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.629880158249904" lon="-76.1464358959411">
+        <time>2015-09-19 19:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.629827352233349" lon="-76.1464776098741">
+        <time>2015-09-19 19:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.629718240833149" lon="-76.1464512837243">
+        <time>2015-09-19 19:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.629718645950218" lon="-76.146454880933">
+        <time>2015-09-19 19:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.629675646791809" lon="-76.1467177513988">
+        <time>2015-09-19 20:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.629756161933308" lon="-76.1466083116825">
+        <time>2015-09-19 20:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.629825221841708" lon="-76.1466317321157">
+        <time>2015-09-19 20:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.629763335442322" lon="-76.1464802990585">
+        <time>2015-09-19 20:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.629365949409299" lon="-76.1459806887487">
+        <time>2015-09-19 21:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.629177279775417" lon="-76.1456766072576">
+        <time>2015-09-19 21:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.630108418407617" lon="-76.1453095008573">
+        <time>2015-09-19 21:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.630330587733319" lon="-76.145204789949">
+        <time>2015-09-19 21:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.630318007900324" lon="-76.1452172300657">
+        <time>2015-09-19 22:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.630657426083388" lon="-76.1451310082323">
+        <time>2015-09-19 22:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.631055992564992" lon="-76.1452470766434">
+        <time>2015-09-19 22:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.631363992575252" lon="-76.1451508733325">
+        <time>2015-09-19 22:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.631368448950006" lon="-76.1451513273824">
+        <time>2015-09-19 23:00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_route</name>
+    <rtept lat="-0.629643634891583" lon="-76.1455679358994">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_1</name>
+    </rtept>
+    <rtept lat="-0.62959847040651" lon="-76.1455752141652">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_2</name>
+    </rtept>
+    <rtept lat="-0.629421521441672" lon="-76.1450267652907">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_3</name>
+    </rtept>
+    <rtept lat="-0.629284596075145" lon="-76.1446404224324">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_4</name>
+    </rtept>
+    <rtept lat="-0.627876520147575" lon="-76.1448006564804">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_5</name>
+    </rtept>
+    <rtept lat="-0.62778019113305" lon="-76.1458218866072">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_6</name>
+    </rtept>
+    <rtept lat="-0.627750840500222" lon="-76.1458849674073">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_7</name>
+    </rtept>
+    <rtept lat="-0.627860000791512" lon="-76.145906620649">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_8</name>
+    </rtept>
+    <rtept lat="-0.62777944374175" lon="-76.1458741337991">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_9</name>
+    </rtept>
+    <rtept lat="-0.627830678133506" lon="-76.1458781571075">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_10</name>
+    </rtept>
+    <rtept lat="-0.627811085425401" lon="-76.145851656324">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_11</name>
+    </rtept>
+    <rtept lat="-0.627818412608548" lon="-76.1459310958239">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_12</name>
+    </rtept>
+    <rtept lat="-0.627839646767596" lon="-76.1459004669488">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_13</name>
+    </rtept>
+    <rtept lat="-0.627816498742225" lon="-76.1458120238909">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_14</name>
+    </rtept>
+    <rtept lat="-0.62783928355931" lon="-76.1457909573904">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_15</name>
+    </rtept>
+    <rtept lat="-0.627862585234339" lon="-76.1459121247737">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_16</name>
+    </rtept>
+    <rtept lat="-0.627857695800177" lon="-76.1458820267656">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_17</name>
+    </rtept>
+    <rtept lat="-0.62774690101666" lon="-76.1458506155824">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_18</name>
+    </rtept>
+    <rtept lat="-0.627791646408779" lon="-76.1459243693406">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_19</name>
+    </rtept>
+    <rtept lat="-0.627738037150241" lon="-76.1459041270323">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_20</name>
+    </rtept>
+    <rtept lat="-0.627752384166689" lon="-76.1458903527907">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_21</name>
+    </rtept>
+    <rtept lat="-0.627754863825182" lon="-76.1459502903656">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_22</name>
+    </rtept>
+    <rtept lat="-0.627709755208483" lon="-76.1459244042574">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_23</name>
+    </rtept>
+    <rtept lat="-0.627760360941574" lon="-76.1458780942409">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_24</name>
+    </rtept>
+    <rtept lat="-0.627984066959594" lon="-76.1461691488399">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_25</name>
+    </rtept>
+    <rtept lat="-0.628111017875011" lon="-76.146298097449">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_26</name>
+    </rtept>
+    <rtept lat="-0.628321703991697" lon="-76.1466019414409">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_27</name>
+    </rtept>
+    <rtept lat="-0.628533815041735" lon="-76.1467029852741">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_28</name>
+    </rtept>
+    <rtept lat="-0.628506615741593" lon="-76.1470335465742">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_29</name>
+    </rtept>
+    <rtept lat="-0.629248910124949" lon="-76.1466956231741">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_30</name>
+    </rtept>
+    <rtept lat="-0.629909390116765" lon="-76.1464329901992">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_31</name>
+    </rtept>
+    <rtept lat="-0.629880158249904" lon="-76.1464358959411">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_32</name>
+    </rtept>
+    <rtept lat="-0.629827352233349" lon="-76.1464776098741">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_33</name>
+    </rtept>
+    <rtept lat="-0.629718240833149" lon="-76.1464512837243">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_34</name>
+    </rtept>
+    <rtept lat="-0.629718645950218" lon="-76.146454880933">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_35</name>
+    </rtept>
+    <rtept lat="-0.629675646791809" lon="-76.1467177513988">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_36</name>
+    </rtept>
+    <rtept lat="-0.629756161933308" lon="-76.1466083116825">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_37</name>
+    </rtept>
+    <rtept lat="-0.629825221841708" lon="-76.1466317321157">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_38</name>
+    </rtept>
+    <rtept lat="-0.629763335442322" lon="-76.1464802990585">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_39</name>
+    </rtept>
+    <rtept lat="-0.629365949409299" lon="-76.1459806887487">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_40</name>
+    </rtept>
+    <rtept lat="-0.629177279775417" lon="-76.1456766072576">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_41</name>
+    </rtept>
+    <rtept lat="-0.630108418407617" lon="-76.1453095008573">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_42</name>
+    </rtept>
+    <rtept lat="-0.630330587733319" lon="-76.145204789949">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_43</name>
+    </rtept>
+    <rtept lat="-0.630318007900324" lon="-76.1452172300657">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_44</name>
+    </rtept>
+    <rtept lat="-0.630657426083388" lon="-76.1451310082323">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_45</name>
+    </rtept>
+    <rtept lat="-0.631055992564992" lon="-76.1452470766434">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_46</name>
+    </rtept>
+    <rtept lat="-0.631363992575252" lon="-76.1451508733325">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_47</name>
+    </rtept>
+    <rtept lat="-0.631368448950006" lon="-76.1451513273824">
+      <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_48</name>
+    </rtept>
+  </rte>
+  <wpt lat="-0.629643634891583" lon="-76.1455679358994">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_1</name>
+  </wpt>
+  <wpt lat="-0.62959847040651" lon="-76.1455752141652">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_2</name>
+  </wpt>
+  <wpt lat="-0.629421521441672" lon="-76.1450267652907">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_3</name>
+  </wpt>
+  <wpt lat="-0.629284596075145" lon="-76.1446404224324">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_4</name>
+  </wpt>
+  <wpt lat="-0.627876520147575" lon="-76.1448006564804">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_5</name>
+  </wpt>
+  <wpt lat="-0.62778019113305" lon="-76.1458218866072">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_6</name>
+  </wpt>
+  <wpt lat="-0.627750840500222" lon="-76.1458849674073">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_7</name>
+  </wpt>
+  <wpt lat="-0.627860000791512" lon="-76.145906620649">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_8</name>
+  </wpt>
+  <wpt lat="-0.62777944374175" lon="-76.1458741337991">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_9</name>
+  </wpt>
+  <wpt lat="-0.627830678133506" lon="-76.1458781571075">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_10</name>
+  </wpt>
+  <wpt lat="-0.627811085425401" lon="-76.145851656324">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_11</name>
+  </wpt>
+  <wpt lat="-0.627818412608548" lon="-76.1459310958239">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_12</name>
+  </wpt>
+  <wpt lat="-0.627839646767596" lon="-76.1459004669488">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_13</name>
+  </wpt>
+  <wpt lat="-0.627816498742225" lon="-76.1458120238909">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_14</name>
+  </wpt>
+  <wpt lat="-0.62783928355931" lon="-76.1457909573904">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_15</name>
+  </wpt>
+  <wpt lat="-0.627862585234339" lon="-76.1459121247737">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_16</name>
+  </wpt>
+  <wpt lat="-0.627857695800177" lon="-76.1458820267656">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_17</name>
+  </wpt>
+  <wpt lat="-0.62774690101666" lon="-76.1458506155824">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_18</name>
+  </wpt>
+  <wpt lat="-0.627791646408779" lon="-76.1459243693406">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_19</name>
+  </wpt>
+  <wpt lat="-0.627738037150241" lon="-76.1459041270323">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_20</name>
+  </wpt>
+  <wpt lat="-0.627752384166689" lon="-76.1458903527907">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_21</name>
+  </wpt>
+  <wpt lat="-0.627754863825182" lon="-76.1459502903656">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_22</name>
+  </wpt>
+  <wpt lat="-0.627709755208483" lon="-76.1459244042574">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_23</name>
+  </wpt>
+  <wpt lat="-0.627760360941574" lon="-76.1458780942409">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_24</name>
+  </wpt>
+  <wpt lat="-0.627984066959594" lon="-76.1461691488399">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_25</name>
+  </wpt>
+  <wpt lat="-0.628111017875011" lon="-76.146298097449">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_26</name>
+  </wpt>
+  <wpt lat="-0.628321703991697" lon="-76.1466019414409">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_27</name>
+  </wpt>
+  <wpt lat="-0.628533815041735" lon="-76.1467029852741">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_28</name>
+  </wpt>
+  <wpt lat="-0.628506615741593" lon="-76.1470335465742">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_29</name>
+  </wpt>
+  <wpt lat="-0.629248910124949" lon="-76.1466956231741">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_30</name>
+  </wpt>
+  <wpt lat="-0.629909390116765" lon="-76.1464329901992">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_31</name>
+  </wpt>
+  <wpt lat="-0.629880158249904" lon="-76.1464358959411">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_32</name>
+  </wpt>
+  <wpt lat="-0.629827352233349" lon="-76.1464776098741">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_33</name>
+  </wpt>
+  <wpt lat="-0.629718240833149" lon="-76.1464512837243">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_34</name>
+  </wpt>
+  <wpt lat="-0.629718645950218" lon="-76.146454880933">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_35</name>
+  </wpt>
+  <wpt lat="-0.629675646791809" lon="-76.1467177513988">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_36</name>
+  </wpt>
+  <wpt lat="-0.629756161933308" lon="-76.1466083116825">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_37</name>
+  </wpt>
+  <wpt lat="-0.629825221841708" lon="-76.1466317321157">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_38</name>
+  </wpt>
+  <wpt lat="-0.629763335442322" lon="-76.1464802990585">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_39</name>
+  </wpt>
+  <wpt lat="-0.629365949409299" lon="-76.1459806887487">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_40</name>
+  </wpt>
+  <wpt lat="-0.629177279775417" lon="-76.1456766072576">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_41</name>
+  </wpt>
+  <wpt lat="-0.630108418407617" lon="-76.1453095008573">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_42</name>
+  </wpt>
+  <wpt lat="-0.630330587733319" lon="-76.145204789949">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_43</name>
+  </wpt>
+  <wpt lat="-0.630318007900324" lon="-76.1452172300657">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_44</name>
+  </wpt>
+  <wpt lat="-0.630657426083388" lon="-76.1451310082323">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_45</name>
+  </wpt>
+  <wpt lat="-0.631055992564992" lon="-76.1452470766434">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_46</name>
+  </wpt>
+  <wpt lat="-0.631363992575252" lon="-76.1451508733325">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_47</name>
+  </wpt>
+  <wpt lat="-0.631368448950006" lon="-76.1451513273824">
+    <name>2015-09-19-MAYO-AV31424-GPS-PP15-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_48</name>
+  </wpt>
+</gpx>

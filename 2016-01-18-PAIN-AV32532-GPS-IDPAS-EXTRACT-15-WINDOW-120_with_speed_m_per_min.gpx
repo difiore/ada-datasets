@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="R">
+  <trk>
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_track</name>
+    <trkseg>
+      <trkpt lat="-0.631300325000001" lon="-76.1455960920818">
+        <time>2016-01-18 12:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.631148114692567" lon="-76.145842687238">
+        <time>2016-01-18 12:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.630253669917609" lon="-76.146236685915">
+        <time>2016-01-18 12:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.630342915995475" lon="-76.1465550236671">
+        <time>2016-01-18 13:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.629381393167926" lon="-76.1468316196649">
+        <time>2016-01-18 13:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.628660018415284" lon="-76.146862758332">
+        <time>2016-01-18 13:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627810771169034" lon="-76.1461053625796">
+        <time>2016-01-18 13:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627206889834013" lon="-76.1459555009995">
+        <time>2016-01-18 14:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.626071023251126" lon="-76.1459023737479">
+        <time>2016-01-18 14:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625645935168924" lon="-76.1456975828236">
+        <time>2016-01-18 14:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625134073411761" lon="-76.1459043156673">
+        <time>2016-01-18 15:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.62471076608377" lon="-76.1460741189157">
+        <time>2016-01-18 15:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.623758295582153" lon="-76.1472612688378">
+        <time>2016-01-18 17:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.623603034749704" lon="-76.1476174789162">
+        <time>2016-01-18 17:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.623539576916631" lon="-76.1474136798326">
+        <time>2016-01-18 18:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.623495529918111" lon="-76.1472463072507">
+        <time>2016-01-18 18:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.623394681501171" lon="-76.1473847902482">
+        <time>2016-01-18 18:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.623653829083382" lon="-76.1468322971657">
+        <time>2016-01-18 18:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.623560217167542" lon="-76.1473987672481">
+        <time>2016-01-18 19:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.623349670750018" lon="-76.1474220337492">
+        <time>2016-01-18 19:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.623241893499997" lon="-76.1471907420824">
+        <time>2016-01-18 19:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.623267779583323" lon="-76.1472386307491">
+        <time>2016-01-18 19:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.623268764333748" lon="-76.1471793777491">
+        <time>2016-01-18 20:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.623248368333581" lon="-76.1471326974994">
+        <time>2016-01-18 20:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.623286701770537" lon="-76.1472198144609">
+        <time>2016-01-18 20:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.623134779582934" lon="-76.1473027873333">
+        <time>2016-01-18 20:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.623280226666631" lon="-76.1474461879182">
+        <time>2016-01-18 21:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.623653228417197" lon="-76.1474311140817">
+        <time>2016-01-18 21:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624268662776145" lon="-76.1473299657718">
+        <time>2016-01-18 21:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.624641181285747" lon="-76.1474722185698">
+        <time>2016-01-18 22:00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_route</name>
+    <rtept lat="-0.631300325000001" lon="-76.1455960920818">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_1</name>
+    </rtept>
+    <rtept lat="-0.631148114692567" lon="-76.145842687238">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_2</name>
+    </rtept>
+    <rtept lat="-0.630253669917609" lon="-76.146236685915">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_3</name>
+    </rtept>
+    <rtept lat="-0.630342915995475" lon="-76.1465550236671">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_4</name>
+    </rtept>
+    <rtept lat="-0.629381393167926" lon="-76.1468316196649">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_5</name>
+    </rtept>
+    <rtept lat="-0.628660018415284" lon="-76.146862758332">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_6</name>
+    </rtept>
+    <rtept lat="-0.627810771169034" lon="-76.1461053625796">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_7</name>
+    </rtept>
+    <rtept lat="-0.627206889834013" lon="-76.1459555009995">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_8</name>
+    </rtept>
+    <rtept lat="-0.626071023251126" lon="-76.1459023737479">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_9</name>
+    </rtept>
+    <rtept lat="-0.625645935168924" lon="-76.1456975828236">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_10</name>
+    </rtept>
+    <rtept lat="-0.625134073411761" lon="-76.1459043156673">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_11</name>
+    </rtept>
+    <rtept lat="-0.62471076608377" lon="-76.1460741189157">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_12</name>
+    </rtept>
+    <rtept lat="-0.623758295582153" lon="-76.1472612688378">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_13</name>
+    </rtept>
+    <rtept lat="-0.623603034749704" lon="-76.1476174789162">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_14</name>
+    </rtept>
+    <rtept lat="-0.623539576916631" lon="-76.1474136798326">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_15</name>
+    </rtept>
+    <rtept lat="-0.623495529918111" lon="-76.1472463072507">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_16</name>
+    </rtept>
+    <rtept lat="-0.623394681501171" lon="-76.1473847902482">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_17</name>
+    </rtept>
+    <rtept lat="-0.623653829083382" lon="-76.1468322971657">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_18</name>
+    </rtept>
+    <rtept lat="-0.623560217167542" lon="-76.1473987672481">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_19</name>
+    </rtept>
+    <rtept lat="-0.623349670750018" lon="-76.1474220337492">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_20</name>
+    </rtept>
+    <rtept lat="-0.623241893499997" lon="-76.1471907420824">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_21</name>
+    </rtept>
+    <rtept lat="-0.623267779583323" lon="-76.1472386307491">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_22</name>
+    </rtept>
+    <rtept lat="-0.623268764333748" lon="-76.1471793777491">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_23</name>
+    </rtept>
+    <rtept lat="-0.623248368333581" lon="-76.1471326974994">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_24</name>
+    </rtept>
+    <rtept lat="-0.623286701770537" lon="-76.1472198144609">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_25</name>
+    </rtept>
+    <rtept lat="-0.623134779582934" lon="-76.1473027873333">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_26</name>
+    </rtept>
+    <rtept lat="-0.623280226666631" lon="-76.1474461879182">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_27</name>
+    </rtept>
+    <rtept lat="-0.623653228417197" lon="-76.1474311140817">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_28</name>
+    </rtept>
+    <rtept lat="-0.624268662776145" lon="-76.1473299657718">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_29</name>
+    </rtept>
+    <rtept lat="-0.624641181285747" lon="-76.1474722185698">
+      <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_30</name>
+    </rtept>
+  </rte>
+  <wpt lat="-0.631300325000001" lon="-76.1455960920818">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_1</name>
+  </wpt>
+  <wpt lat="-0.631148114692567" lon="-76.145842687238">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_2</name>
+  </wpt>
+  <wpt lat="-0.630253669917609" lon="-76.146236685915">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_3</name>
+  </wpt>
+  <wpt lat="-0.630342915995475" lon="-76.1465550236671">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_4</name>
+  </wpt>
+  <wpt lat="-0.629381393167926" lon="-76.1468316196649">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_5</name>
+  </wpt>
+  <wpt lat="-0.628660018415284" lon="-76.146862758332">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_6</name>
+  </wpt>
+  <wpt lat="-0.627810771169034" lon="-76.1461053625796">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_7</name>
+  </wpt>
+  <wpt lat="-0.627206889834013" lon="-76.1459555009995">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_8</name>
+  </wpt>
+  <wpt lat="-0.626071023251126" lon="-76.1459023737479">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_9</name>
+  </wpt>
+  <wpt lat="-0.625645935168924" lon="-76.1456975828236">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_10</name>
+  </wpt>
+  <wpt lat="-0.625134073411761" lon="-76.1459043156673">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_11</name>
+  </wpt>
+  <wpt lat="-0.62471076608377" lon="-76.1460741189157">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_12</name>
+  </wpt>
+  <wpt lat="-0.623758295582153" lon="-76.1472612688378">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_13</name>
+  </wpt>
+  <wpt lat="-0.623603034749704" lon="-76.1476174789162">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_14</name>
+  </wpt>
+  <wpt lat="-0.623539576916631" lon="-76.1474136798326">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_15</name>
+  </wpt>
+  <wpt lat="-0.623495529918111" lon="-76.1472463072507">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_16</name>
+  </wpt>
+  <wpt lat="-0.623394681501171" lon="-76.1473847902482">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_17</name>
+  </wpt>
+  <wpt lat="-0.623653829083382" lon="-76.1468322971657">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_18</name>
+  </wpt>
+  <wpt lat="-0.623560217167542" lon="-76.1473987672481">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_19</name>
+  </wpt>
+  <wpt lat="-0.623349670750018" lon="-76.1474220337492">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_20</name>
+  </wpt>
+  <wpt lat="-0.623241893499997" lon="-76.1471907420824">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_21</name>
+  </wpt>
+  <wpt lat="-0.623267779583323" lon="-76.1472386307491">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_22</name>
+  </wpt>
+  <wpt lat="-0.623268764333748" lon="-76.1471793777491">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_23</name>
+  </wpt>
+  <wpt lat="-0.623248368333581" lon="-76.1471326974994">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_24</name>
+  </wpt>
+  <wpt lat="-0.623286701770537" lon="-76.1472198144609">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_25</name>
+  </wpt>
+  <wpt lat="-0.623134779582934" lon="-76.1473027873333">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_26</name>
+  </wpt>
+  <wpt lat="-0.623280226666631" lon="-76.1474461879182">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_27</name>
+  </wpt>
+  <wpt lat="-0.623653228417197" lon="-76.1474311140817">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_28</name>
+  </wpt>
+  <wpt lat="-0.624268662776145" lon="-76.1473299657718">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_29</name>
+  </wpt>
+  <wpt lat="-0.624641181285747" lon="-76.1474722185698">
+    <name>2016-01-18-PAIN-AV32532-GPS-IDPAS-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_30</name>
+  </wpt>
+</gpx>

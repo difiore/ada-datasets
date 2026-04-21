@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="R">
+  <trk>
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_track</name>
+    <trkseg>
+      <trkpt lat="-0.625736927616967" lon="-76.1456480040324">
+        <time>2017-04-29 11:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625772557675015" lon="-76.145634816499">
+        <time>2017-04-29 12:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625734643542006" lon="-76.1456163623249">
+        <time>2017-04-29 12:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.625717383808783" lon="-76.1456320015738">
+        <time>2017-04-29 12:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625704817933899" lon="-76.1456244299073">
+        <time>2017-04-29 12:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625711111358493" lon="-76.145655799191">
+        <time>2017-04-29 13:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625730194158483" lon="-76.1456340272074">
+        <time>2017-04-29 13:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.625727267466837" lon="-76.1456681904242">
+        <time>2017-04-29 13:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625674929466631" lon="-76.145770861766">
+        <time>2017-04-29 13:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625587149991904" lon="-76.1457480560071">
+        <time>2017-04-29 14:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625747048741731" lon="-76.1458160891074">
+        <time>2017-04-29 14:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.625752280475042" lon="-76.145838154499">
+        <time>2017-04-29 14:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625624589158324" lon="-76.1457785451825">
+        <time>2017-04-29 14:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625755696084341" lon="-76.1460276204057">
+        <time>2017-04-29 15:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625802481083076" lon="-76.1465188139158">
+        <time>2017-04-29 15:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.625092582774874" lon="-76.146551999274">
+        <time>2017-04-29 15:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.624591722150202" lon="-76.1472082883072">
+        <time>2017-04-29 15:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.624506373416786" lon="-76.147238016124">
+        <time>2017-04-29 16:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.624771562891785" lon="-76.1475892038907">
+        <time>2017-04-29 16:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624882015400527" lon="-76.1477951263155">
+        <time>2017-04-29 16:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625007785849446" lon="-76.1477898596914">
+        <time>2017-04-29 16:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625118860041753" lon="-76.1478388588907">
+        <time>2017-04-29 17:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625352582433416" lon="-76.1480086692659">
+        <time>2017-04-29 17:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624954686499878" lon="-76.1476206500073">
+        <time>2017-04-29 17:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.624973091766726" lon="-76.147588449541">
+        <time>2017-04-29 17:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.624972309441938" lon="-76.1476915120325">
+        <time>2017-04-29 18:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.624858008224864" lon="-76.1475826171157">
+        <time>2017-04-29 18:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624934576925035" lon="-76.1474732053577">
+        <time>2017-04-29 18:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.624946206808676" lon="-76.1475960980081">
+        <time>2017-04-29 18:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.62487602932509" lon="-76.1474899132658">
+        <time>2017-04-29 19:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.624896036466619" lon="-76.1475221719658">
+        <time>2017-04-29 19:15:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_route</name>
+    <rtept lat="-0.625736927616967" lon="-76.1456480040324">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_1</name>
+    </rtept>
+    <rtept lat="-0.625772557675015" lon="-76.145634816499">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_2</name>
+    </rtept>
+    <rtept lat="-0.625734643542006" lon="-76.1456163623249">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_3</name>
+    </rtept>
+    <rtept lat="-0.625717383808783" lon="-76.1456320015738">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_4</name>
+    </rtept>
+    <rtept lat="-0.625704817933899" lon="-76.1456244299073">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_5</name>
+    </rtept>
+    <rtept lat="-0.625711111358493" lon="-76.145655799191">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_6</name>
+    </rtept>
+    <rtept lat="-0.625730194158483" lon="-76.1456340272074">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_7</name>
+    </rtept>
+    <rtept lat="-0.625727267466837" lon="-76.1456681904242">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_8</name>
+    </rtept>
+    <rtept lat="-0.625674929466631" lon="-76.145770861766">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_9</name>
+    </rtept>
+    <rtept lat="-0.625587149991904" lon="-76.1457480560071">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_10</name>
+    </rtept>
+    <rtept lat="-0.625747048741731" lon="-76.1458160891074">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_11</name>
+    </rtept>
+    <rtept lat="-0.625752280475042" lon="-76.145838154499">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_12</name>
+    </rtept>
+    <rtept lat="-0.625624589158324" lon="-76.1457785451825">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_13</name>
+    </rtept>
+    <rtept lat="-0.625755696084341" lon="-76.1460276204057">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_14</name>
+    </rtept>
+    <rtept lat="-0.625802481083076" lon="-76.1465188139158">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_15</name>
+    </rtept>
+    <rtept lat="-0.625092582774874" lon="-76.146551999274">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_16</name>
+    </rtept>
+    <rtept lat="-0.624591722150202" lon="-76.1472082883072">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_17</name>
+    </rtept>
+    <rtept lat="-0.624506373416786" lon="-76.147238016124">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_18</name>
+    </rtept>
+    <rtept lat="-0.624771562891785" lon="-76.1475892038907">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_19</name>
+    </rtept>
+    <rtept lat="-0.624882015400527" lon="-76.1477951263155">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_20</name>
+    </rtept>
+    <rtept lat="-0.625007785849446" lon="-76.1477898596914">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_21</name>
+    </rtept>
+    <rtept lat="-0.625118860041753" lon="-76.1478388588907">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_22</name>
+    </rtept>
+    <rtept lat="-0.625352582433416" lon="-76.1480086692659">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_23</name>
+    </rtept>
+    <rtept lat="-0.624954686499878" lon="-76.1476206500073">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_24</name>
+    </rtept>
+    <rtept lat="-0.624973091766726" lon="-76.147588449541">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_25</name>
+    </rtept>
+    <rtept lat="-0.624972309441938" lon="-76.1476915120325">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_26</name>
+    </rtept>
+    <rtept lat="-0.624858008224864" lon="-76.1475826171157">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_27</name>
+    </rtept>
+    <rtept lat="-0.624934576925035" lon="-76.1474732053577">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_28</name>
+    </rtept>
+    <rtept lat="-0.624946206808676" lon="-76.1475960980081">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_29</name>
+    </rtept>
+    <rtept lat="-0.62487602932509" lon="-76.1474899132658">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_30</name>
+    </rtept>
+    <rtept lat="-0.624896036466619" lon="-76.1475221719658">
+      <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_31</name>
+    </rtept>
+  </rte>
+  <wpt lat="-0.625736927616967" lon="-76.1456480040324">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_1</name>
+  </wpt>
+  <wpt lat="-0.625772557675015" lon="-76.145634816499">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_2</name>
+  </wpt>
+  <wpt lat="-0.625734643542006" lon="-76.1456163623249">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_3</name>
+  </wpt>
+  <wpt lat="-0.625717383808783" lon="-76.1456320015738">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_4</name>
+  </wpt>
+  <wpt lat="-0.625704817933899" lon="-76.1456244299073">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_5</name>
+  </wpt>
+  <wpt lat="-0.625711111358493" lon="-76.145655799191">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_6</name>
+  </wpt>
+  <wpt lat="-0.625730194158483" lon="-76.1456340272074">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_7</name>
+  </wpt>
+  <wpt lat="-0.625727267466837" lon="-76.1456681904242">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_8</name>
+  </wpt>
+  <wpt lat="-0.625674929466631" lon="-76.145770861766">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_9</name>
+  </wpt>
+  <wpt lat="-0.625587149991904" lon="-76.1457480560071">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_10</name>
+  </wpt>
+  <wpt lat="-0.625747048741731" lon="-76.1458160891074">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_11</name>
+  </wpt>
+  <wpt lat="-0.625752280475042" lon="-76.145838154499">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_12</name>
+  </wpt>
+  <wpt lat="-0.625624589158324" lon="-76.1457785451825">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_13</name>
+  </wpt>
+  <wpt lat="-0.625755696084341" lon="-76.1460276204057">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_14</name>
+  </wpt>
+  <wpt lat="-0.625802481083076" lon="-76.1465188139158">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_15</name>
+  </wpt>
+  <wpt lat="-0.625092582774874" lon="-76.146551999274">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_16</name>
+  </wpt>
+  <wpt lat="-0.624591722150202" lon="-76.1472082883072">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_17</name>
+  </wpt>
+  <wpt lat="-0.624506373416786" lon="-76.147238016124">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_18</name>
+  </wpt>
+  <wpt lat="-0.624771562891785" lon="-76.1475892038907">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_19</name>
+  </wpt>
+  <wpt lat="-0.624882015400527" lon="-76.1477951263155">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_20</name>
+  </wpt>
+  <wpt lat="-0.625007785849446" lon="-76.1477898596914">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_21</name>
+  </wpt>
+  <wpt lat="-0.625118860041753" lon="-76.1478388588907">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_22</name>
+  </wpt>
+  <wpt lat="-0.625352582433416" lon="-76.1480086692659">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_23</name>
+  </wpt>
+  <wpt lat="-0.624954686499878" lon="-76.1476206500073">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_24</name>
+  </wpt>
+  <wpt lat="-0.624973091766726" lon="-76.147588449541">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_25</name>
+  </wpt>
+  <wpt lat="-0.624972309441938" lon="-76.1476915120325">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_26</name>
+  </wpt>
+  <wpt lat="-0.624858008224864" lon="-76.1475826171157">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_27</name>
+  </wpt>
+  <wpt lat="-0.624934576925035" lon="-76.1474732053577">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_28</name>
+  </wpt>
+  <wpt lat="-0.624946206808676" lon="-76.1475960980081">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_29</name>
+  </wpt>
+  <wpt lat="-0.62487602932509" lon="-76.1474899132658">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_30</name>
+  </wpt>
+  <wpt lat="-0.624896036466619" lon="-76.1475221719658">
+    <name>2017-04-29-JONES-AV38151-GPS-PP12-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_31</name>
+  </wpt>
+</gpx>

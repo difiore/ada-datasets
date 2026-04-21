@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="R">
+  <trk>
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_track</name>
+    <trkseg>
+      <trkpt lat="-0.627562081945443" lon="-76.1489508808996">
+        <time>2015-08-02 12:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627688891250127" lon="-76.1487832968076">
+        <time>2015-08-02 13:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.627823567475103" lon="-76.1488160840324">
+        <time>2015-08-02 13:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.627888177991777" lon="-76.1486823158326">
+        <time>2015-08-02 13:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.627918255058418" lon="-76.1485134344491">
+        <time>2015-08-02 13:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.627902629783516" lon="-76.1485116952074">
+        <time>2015-08-02 14:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.628139097241901" lon="-76.1490164604156">
+        <time>2015-08-02 14:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.628098382134329" lon="-76.1489793914489">
+        <time>2015-08-02 14:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.62820749358381" lon="-76.1484088981492">
+        <time>2015-08-02 14:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.628256555641681" lon="-76.1480650445583">
+        <time>2015-08-02 15:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.62812331131683" lon="-76.1474867071907">
+        <time>2015-08-02 15:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.62821686034158" lon="-76.1469954159159">
+        <time>2015-08-02 15:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.62869411893348" lon="-76.1470028758147">
+        <time>2015-08-02 15:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.628919738799397" lon="-76.147055968175">
+        <time>2015-08-02 16:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.628977965099811" lon="-76.1472337832738">
+        <time>2015-08-02 16:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.629028130784648" lon="-76.1477174330406">
+        <time>2015-08-02 16:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.629238684209521" lon="-76.148113135715">
+        <time>2015-08-02 16:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.629984855201192" lon="-76.1479522031582">
+        <time>2015-08-02 17:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.629964731633591" lon="-76.147822479249">
+        <time>2015-08-02 17:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.629997183558356" lon="-76.1478035990157">
+        <time>2015-08-02 17:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.630113845685781" lon="-76.1480020475507">
+        <time>2015-08-02 17:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.630357842900194" lon="-76.1475995066574">
+        <time>2015-08-02 18:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.630339912591757" lon="-76.1474242061324">
+        <time>2015-08-02 18:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.630356585600002" lon="-76.1474618897908">
+        <time>2015-08-02 18:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.630268624525407" lon="-76.147241152358">
+        <time>2015-08-02 18:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.630745289391676" lon="-76.1471916292826">
+        <time>2015-08-02 19:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.631024965547948" lon="-76.1468656919886">
+        <time>2015-08-02 19:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.632081825750066" lon="-76.1470062006323">
+        <time>2015-08-02 19:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.632089306592057" lon="-76.1474083922905">
+        <time>2015-08-02 19:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.631950921375472" lon="-76.1477053351659">
+        <time>2015-08-02 20:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.631854725058359" lon="-76.1479622544658">
+        <time>2015-08-02 20:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.631921947925283" lon="-76.1480138939908">
+        <time>2015-08-02 20:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.631994730791959" lon="-76.1479724943745">
+        <time>2015-08-02 20:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.631984253417453" lon="-76.1480669723754">
+        <time>2015-08-02 21:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.632133430316751" lon="-76.1480793077495">
+        <time>2015-08-02 21:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.63213631510922" lon="-76.1481039784952">
+        <time>2015-08-02 21:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.632177225774539" lon="-76.1481239693241">
+        <time>2015-08-02 21:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.632423444175399" lon="-76.1484170565401">
+        <time>2015-08-02 22:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.632591382600035" lon="-76.1482868017657">
+        <time>2015-08-02 22:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.632910132399958" lon="-76.1482513742574">
+        <time>2015-08-02 22:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.632970831350395" lon="-76.1480781622236">
+        <time>2015-08-02 22:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.632835463616654" lon="-76.1481369612824">
+        <time>2015-08-02 23:00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_route</name>
+    <rtept lat="-0.627562081945443" lon="-76.1489508808996">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_1</name>
+    </rtept>
+    <rtept lat="-0.627688891250127" lon="-76.1487832968076">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_2</name>
+    </rtept>
+    <rtept lat="-0.627823567475103" lon="-76.1488160840324">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_3</name>
+    </rtept>
+    <rtept lat="-0.627888177991777" lon="-76.1486823158326">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_4</name>
+    </rtept>
+    <rtept lat="-0.627918255058418" lon="-76.1485134344491">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_5</name>
+    </rtept>
+    <rtept lat="-0.627902629783516" lon="-76.1485116952074">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_6</name>
+    </rtept>
+    <rtept lat="-0.628139097241901" lon="-76.1490164604156">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_7</name>
+    </rtept>
+    <rtept lat="-0.628098382134329" lon="-76.1489793914489">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_8</name>
+    </rtept>
+    <rtept lat="-0.62820749358381" lon="-76.1484088981492">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_9</name>
+    </rtept>
+    <rtept lat="-0.628256555641681" lon="-76.1480650445583">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_10</name>
+    </rtept>
+    <rtept lat="-0.62812331131683" lon="-76.1474867071907">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_11</name>
+    </rtept>
+    <rtept lat="-0.62821686034158" lon="-76.1469954159159">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_12</name>
+    </rtept>
+    <rtept lat="-0.62869411893348" lon="-76.1470028758147">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_13</name>
+    </rtept>
+    <rtept lat="-0.628919738799397" lon="-76.147055968175">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_14</name>
+    </rtept>
+    <rtept lat="-0.628977965099811" lon="-76.1472337832738">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_15</name>
+    </rtept>
+    <rtept lat="-0.629028130784648" lon="-76.1477174330406">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_16</name>
+    </rtept>
+    <rtept lat="-0.629238684209521" lon="-76.148113135715">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_17</name>
+    </rtept>
+    <rtept lat="-0.629984855201192" lon="-76.1479522031582">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_18</name>
+    </rtept>
+    <rtept lat="-0.629964731633591" lon="-76.147822479249">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_19</name>
+    </rtept>
+    <rtept lat="-0.629997183558356" lon="-76.1478035990157">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_20</name>
+    </rtept>
+    <rtept lat="-0.630113845685781" lon="-76.1480020475507">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_21</name>
+    </rtept>
+    <rtept lat="-0.630357842900194" lon="-76.1475995066574">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_22</name>
+    </rtept>
+    <rtept lat="-0.630339912591757" lon="-76.1474242061324">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_23</name>
+    </rtept>
+    <rtept lat="-0.630356585600002" lon="-76.1474618897908">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_24</name>
+    </rtept>
+    <rtept lat="-0.630268624525407" lon="-76.147241152358">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_25</name>
+    </rtept>
+    <rtept lat="-0.630745289391676" lon="-76.1471916292826">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_26</name>
+    </rtept>
+    <rtept lat="-0.631024965547948" lon="-76.1468656919886">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_27</name>
+    </rtept>
+    <rtept lat="-0.632081825750066" lon="-76.1470062006323">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_28</name>
+    </rtept>
+    <rtept lat="-0.632089306592057" lon="-76.1474083922905">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_29</name>
+    </rtept>
+    <rtept lat="-0.631950921375472" lon="-76.1477053351659">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_30</name>
+    </rtept>
+    <rtept lat="-0.631854725058359" lon="-76.1479622544658">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_31</name>
+    </rtept>
+    <rtept lat="-0.631921947925283" lon="-76.1480138939908">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_32</name>
+    </rtept>
+    <rtept lat="-0.631994730791959" lon="-76.1479724943745">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_33</name>
+    </rtept>
+    <rtept lat="-0.631984253417453" lon="-76.1480669723754">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_34</name>
+    </rtept>
+    <rtept lat="-0.632133430316751" lon="-76.1480793077495">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_35</name>
+    </rtept>
+    <rtept lat="-0.63213631510922" lon="-76.1481039784952">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_36</name>
+    </rtept>
+    <rtept lat="-0.632177225774539" lon="-76.1481239693241">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_37</name>
+    </rtept>
+    <rtept lat="-0.632423444175399" lon="-76.1484170565401">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_38</name>
+    </rtept>
+    <rtept lat="-0.632591382600035" lon="-76.1482868017657">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_39</name>
+    </rtept>
+    <rtept lat="-0.632910132399958" lon="-76.1482513742574">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_40</name>
+    </rtept>
+    <rtept lat="-0.632970831350395" lon="-76.1480781622236">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_41</name>
+    </rtept>
+    <rtept lat="-0.632835463616654" lon="-76.1481369612824">
+      <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_42</name>
+    </rtept>
+  </rte>
+  <wpt lat="-0.627562081945443" lon="-76.1489508808996">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_1</name>
+  </wpt>
+  <wpt lat="-0.627688891250127" lon="-76.1487832968076">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_2</name>
+  </wpt>
+  <wpt lat="-0.627823567475103" lon="-76.1488160840324">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_3</name>
+  </wpt>
+  <wpt lat="-0.627888177991777" lon="-76.1486823158326">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_4</name>
+  </wpt>
+  <wpt lat="-0.627918255058418" lon="-76.1485134344491">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_5</name>
+  </wpt>
+  <wpt lat="-0.627902629783516" lon="-76.1485116952074">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_6</name>
+  </wpt>
+  <wpt lat="-0.628139097241901" lon="-76.1490164604156">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_7</name>
+  </wpt>
+  <wpt lat="-0.628098382134329" lon="-76.1489793914489">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_8</name>
+  </wpt>
+  <wpt lat="-0.62820749358381" lon="-76.1484088981492">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_9</name>
+  </wpt>
+  <wpt lat="-0.628256555641681" lon="-76.1480650445583">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_10</name>
+  </wpt>
+  <wpt lat="-0.62812331131683" lon="-76.1474867071907">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_11</name>
+  </wpt>
+  <wpt lat="-0.62821686034158" lon="-76.1469954159159">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_12</name>
+  </wpt>
+  <wpt lat="-0.62869411893348" lon="-76.1470028758147">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_13</name>
+  </wpt>
+  <wpt lat="-0.628919738799397" lon="-76.147055968175">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_14</name>
+  </wpt>
+  <wpt lat="-0.628977965099811" lon="-76.1472337832738">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_15</name>
+  </wpt>
+  <wpt lat="-0.629028130784648" lon="-76.1477174330406">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_16</name>
+  </wpt>
+  <wpt lat="-0.629238684209521" lon="-76.148113135715">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_17</name>
+  </wpt>
+  <wpt lat="-0.629984855201192" lon="-76.1479522031582">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_18</name>
+  </wpt>
+  <wpt lat="-0.629964731633591" lon="-76.147822479249">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_19</name>
+  </wpt>
+  <wpt lat="-0.629997183558356" lon="-76.1478035990157">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_20</name>
+  </wpt>
+  <wpt lat="-0.630113845685781" lon="-76.1480020475507">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_21</name>
+  </wpt>
+  <wpt lat="-0.630357842900194" lon="-76.1475995066574">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_22</name>
+  </wpt>
+  <wpt lat="-0.630339912591757" lon="-76.1474242061324">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_23</name>
+  </wpt>
+  <wpt lat="-0.630356585600002" lon="-76.1474618897908">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_24</name>
+  </wpt>
+  <wpt lat="-0.630268624525407" lon="-76.147241152358">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_25</name>
+  </wpt>
+  <wpt lat="-0.630745289391676" lon="-76.1471916292826">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_26</name>
+  </wpt>
+  <wpt lat="-0.631024965547948" lon="-76.1468656919886">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_27</name>
+  </wpt>
+  <wpt lat="-0.632081825750066" lon="-76.1470062006323">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_28</name>
+  </wpt>
+  <wpt lat="-0.632089306592057" lon="-76.1474083922905">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_29</name>
+  </wpt>
+  <wpt lat="-0.631950921375472" lon="-76.1477053351659">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_30</name>
+  </wpt>
+  <wpt lat="-0.631854725058359" lon="-76.1479622544658">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_31</name>
+  </wpt>
+  <wpt lat="-0.631921947925283" lon="-76.1480138939908">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_32</name>
+  </wpt>
+  <wpt lat="-0.631994730791959" lon="-76.1479724943745">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_33</name>
+  </wpt>
+  <wpt lat="-0.631984253417453" lon="-76.1480669723754">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_34</name>
+  </wpt>
+  <wpt lat="-0.632133430316751" lon="-76.1480793077495">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_35</name>
+  </wpt>
+  <wpt lat="-0.63213631510922" lon="-76.1481039784952">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_36</name>
+  </wpt>
+  <wpt lat="-0.632177225774539" lon="-76.1481239693241">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_37</name>
+  </wpt>
+  <wpt lat="-0.632423444175399" lon="-76.1484170565401">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_38</name>
+  </wpt>
+  <wpt lat="-0.632591382600035" lon="-76.1482868017657">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_39</name>
+  </wpt>
+  <wpt lat="-0.632910132399958" lon="-76.1482513742574">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_40</name>
+  </wpt>
+  <wpt lat="-0.632970831350395" lon="-76.1480781622236">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_41</name>
+  </wpt>
+  <wpt lat="-0.632835463616654" lon="-76.1481369612824">
+    <name>2015-08-02-SAMPECK-AV30798-GPS-PP13-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_42</name>
+  </wpt>
+</gpx>

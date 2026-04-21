@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="R">
+  <trk>
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_track</name>
+    <trkseg>
+      <trkpt lat="-0.6248936173502" lon="-76.1492124642243">
+        <time>2017-06-05 14:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.624982479499768" lon="-76.1491207382575">
+        <time>2017-06-05 14:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.624960756391782" lon="-76.1491547198907">
+        <time>2017-06-05 15:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.624983324666663" lon="-76.1491223587658">
+        <time>2017-06-05 15:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624981173316903" lon="-76.1491324519656">
+        <time>2017-06-05 15:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625015567067334" lon="-76.1491381307075">
+        <time>2017-06-05 15:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.624962453741903" lon="-76.1489442712491">
+        <time>2017-06-05 16:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.624958074183255" lon="-76.1489662597827">
+        <time>2017-06-05 16:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.624959345433364" lon="-76.1489100172241">
+        <time>2017-06-05 16:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.625149579724917" lon="-76.1488511343406">
+        <time>2017-06-05 16:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.625413337258485" lon="-76.1483640200404">
+        <time>2017-06-05 17:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.625989558181906" lon="-76.1482569481975">
+        <time>2017-06-05 17:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.62650620474158" lon="-76.148052772024">
+        <time>2017-06-05 17:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.626609190374966" lon="-76.1479289643492">
+        <time>2017-06-05 17:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.626604887651038" lon="-76.1479382822219">
+        <time>2017-06-05 18:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.626473263833436" lon="-76.1479095951573">
+        <time>2017-06-05 18:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.626464867958331" lon="-76.1478811735407">
+        <time>2017-06-05 18:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.626543329566659" lon="-76.1478290310991">
+        <time>2017-06-05 18:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.626549818566774" lon="-76.1476885364407">
+        <time>2017-06-05 19:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.626583569683338" lon="-76.1477221408908">
+        <time>2017-06-05 19:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.626738292616636" lon="-76.1479056277157">
+        <time>2017-06-05 19:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.626750013324972" lon="-76.147909741849">
+        <time>2017-06-05 19:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.626696983816684" lon="-76.1474906466826">
+        <time>2017-06-05 20:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.626203457358297" lon="-76.1471321457156">
+        <time>2017-06-05 20:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.626384324843897" lon="-76.1465605557913">
+        <time>2017-06-05 20:30:00</time>
+      </trkpt>
+      <trkpt lat="-0.626602289275235" lon="-76.1461004731237">
+        <time>2017-06-05 20:45:00</time>
+      </trkpt>
+      <trkpt lat="-0.62663619405883" lon="-76.1460817325923">
+        <time>2017-06-05 21:00:00</time>
+      </trkpt>
+      <trkpt lat="-0.62653599539992" lon="-76.1458116397327">
+        <time>2017-06-05 21:15:00</time>
+      </trkpt>
+      <trkpt lat="-0.626560247033341" lon="-76.1458347947408">
+        <time>2017-06-05 21:30:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_route</name>
+    <rtept lat="-0.6248936173502" lon="-76.1492124642243">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_1</name>
+    </rtept>
+    <rtept lat="-0.624982479499768" lon="-76.1491207382575">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_2</name>
+    </rtept>
+    <rtept lat="-0.624960756391782" lon="-76.1491547198907">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_3</name>
+    </rtept>
+    <rtept lat="-0.624983324666663" lon="-76.1491223587658">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_4</name>
+    </rtept>
+    <rtept lat="-0.624981173316903" lon="-76.1491324519656">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_5</name>
+    </rtept>
+    <rtept lat="-0.625015567067334" lon="-76.1491381307075">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_6</name>
+    </rtept>
+    <rtept lat="-0.624962453741903" lon="-76.1489442712491">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_7</name>
+    </rtept>
+    <rtept lat="-0.624958074183255" lon="-76.1489662597827">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_8</name>
+    </rtept>
+    <rtept lat="-0.624959345433364" lon="-76.1489100172241">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_9</name>
+    </rtept>
+    <rtept lat="-0.625149579724917" lon="-76.1488511343406">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_10</name>
+    </rtept>
+    <rtept lat="-0.625413337258485" lon="-76.1483640200404">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_11</name>
+    </rtept>
+    <rtept lat="-0.625989558181906" lon="-76.1482569481975">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_12</name>
+    </rtept>
+    <rtept lat="-0.62650620474158" lon="-76.148052772024">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_13</name>
+    </rtept>
+    <rtept lat="-0.626609190374966" lon="-76.1479289643492">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_14</name>
+    </rtept>
+    <rtept lat="-0.626604887651038" lon="-76.1479382822219">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_15</name>
+    </rtept>
+    <rtept lat="-0.626473263833436" lon="-76.1479095951573">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_16</name>
+    </rtept>
+    <rtept lat="-0.626464867958331" lon="-76.1478811735407">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_17</name>
+    </rtept>
+    <rtept lat="-0.626543329566659" lon="-76.1478290310991">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_18</name>
+    </rtept>
+    <rtept lat="-0.626549818566774" lon="-76.1476885364407">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_19</name>
+    </rtept>
+    <rtept lat="-0.626583569683338" lon="-76.1477221408908">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_20</name>
+    </rtept>
+    <rtept lat="-0.626738292616636" lon="-76.1479056277157">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_21</name>
+    </rtept>
+    <rtept lat="-0.626750013324972" lon="-76.147909741849">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_22</name>
+    </rtept>
+    <rtept lat="-0.626696983816684" lon="-76.1474906466826">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_23</name>
+    </rtept>
+    <rtept lat="-0.626203457358297" lon="-76.1471321457156">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_24</name>
+    </rtept>
+    <rtept lat="-0.626384324843897" lon="-76.1465605557913">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_25</name>
+    </rtept>
+    <rtept lat="-0.626602289275235" lon="-76.1461004731237">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_26</name>
+    </rtept>
+    <rtept lat="-0.62663619405883" lon="-76.1460817325923">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_27</name>
+    </rtept>
+    <rtept lat="-0.62653599539992" lon="-76.1458116397327">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_28</name>
+    </rtept>
+    <rtept lat="-0.626560247033341" lon="-76.1458347947408">
+      <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_routept_29</name>
+    </rtept>
+  </rte>
+  <wpt lat="-0.6248936173502" lon="-76.1492124642243">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_1</name>
+  </wpt>
+  <wpt lat="-0.624982479499768" lon="-76.1491207382575">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_2</name>
+  </wpt>
+  <wpt lat="-0.624960756391782" lon="-76.1491547198907">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_3</name>
+  </wpt>
+  <wpt lat="-0.624983324666663" lon="-76.1491223587658">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_4</name>
+  </wpt>
+  <wpt lat="-0.624981173316903" lon="-76.1491324519656">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_5</name>
+  </wpt>
+  <wpt lat="-0.625015567067334" lon="-76.1491381307075">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_6</name>
+  </wpt>
+  <wpt lat="-0.624962453741903" lon="-76.1489442712491">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_7</name>
+  </wpt>
+  <wpt lat="-0.624958074183255" lon="-76.1489662597827">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_8</name>
+  </wpt>
+  <wpt lat="-0.624959345433364" lon="-76.1489100172241">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_9</name>
+  </wpt>
+  <wpt lat="-0.625149579724917" lon="-76.1488511343406">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_10</name>
+  </wpt>
+  <wpt lat="-0.625413337258485" lon="-76.1483640200404">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_11</name>
+  </wpt>
+  <wpt lat="-0.625989558181906" lon="-76.1482569481975">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_12</name>
+  </wpt>
+  <wpt lat="-0.62650620474158" lon="-76.148052772024">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_13</name>
+  </wpt>
+  <wpt lat="-0.626609190374966" lon="-76.1479289643492">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_14</name>
+  </wpt>
+  <wpt lat="-0.626604887651038" lon="-76.1479382822219">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_15</name>
+  </wpt>
+  <wpt lat="-0.626473263833436" lon="-76.1479095951573">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_16</name>
+  </wpt>
+  <wpt lat="-0.626464867958331" lon="-76.1478811735407">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_17</name>
+  </wpt>
+  <wpt lat="-0.626543329566659" lon="-76.1478290310991">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_18</name>
+  </wpt>
+  <wpt lat="-0.626549818566774" lon="-76.1476885364407">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_19</name>
+  </wpt>
+  <wpt lat="-0.626583569683338" lon="-76.1477221408908">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_20</name>
+  </wpt>
+  <wpt lat="-0.626738292616636" lon="-76.1479056277157">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_21</name>
+  </wpt>
+  <wpt lat="-0.626750013324972" lon="-76.147909741849">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_22</name>
+  </wpt>
+  <wpt lat="-0.626696983816684" lon="-76.1474906466826">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_23</name>
+  </wpt>
+  <wpt lat="-0.626203457358297" lon="-76.1471321457156">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_24</name>
+  </wpt>
+  <wpt lat="-0.626384324843897" lon="-76.1465605557913">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_25</name>
+  </wpt>
+  <wpt lat="-0.626602289275235" lon="-76.1461004731237">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_26</name>
+  </wpt>
+  <wpt lat="-0.62663619405883" lon="-76.1460817325923">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_27</name>
+  </wpt>
+  <wpt lat="-0.62653599539992" lon="-76.1458116397327">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_28</name>
+  </wpt>
+  <wpt lat="-0.626560247033341" lon="-76.1458347947408">
+    <name>2017-06-05-PAEZ-AV36291-GPS-PP16-EXTRACT-15-WINDOW-120_with_speed_m_per_min_waypoint_29</name>
+  </wpt>
+</gpx>
