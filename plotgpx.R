@@ -26,10 +26,10 @@
 #'
 #' @export
 
-explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
+plotgpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
 
   # ── 0. Check dependencies ----
-  required_pkgs <- c("sf", "lubridate", "xml2", "leaflet", "ggplot2", "rstudioapi")
+  required_pkgs <- c("sf", "lubridate", "xml2", "leaflet", "ggplot2", "rstudioapi", "base64enc")
   missing_pkgs  <- required_pkgs[!vapply(required_pkgs, requireNamespace, quietly = TRUE, FUN.VALUE = logical(1))]
   if (length(missing_pkgs) > 0) {
     stop(
@@ -92,9 +92,7 @@ explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
   if (!"ele"  %in% names(track)) track$ele  <- NA_real_
   if (!"time" %in% names(track)) track$time <- as.POSIXct(NA)
 
-  # GDAL's GPX driver zeros the time component before sf ever sees it.
-  # We extract the raw ISO 8601 strings directly from the XML and parse
-  # with lubridate::ymd_hms(), which handles the format reliably.
+  # GDAL's GPX driver zeros the time component before sf ever sees it. We extract the raw ISO 8601 strings directly from the XML and parse with lubridate::ymd_hms(), which handles the format reliably.
   raw_xml    <- xml2::read_xml(file_path)
   trkpts_xml <- xml2::xml_find_all(raw_xml, "//*[local-name()='trkpt']")
   time_strs  <- vapply(trkpts_xml, function(n) {
@@ -121,7 +119,7 @@ explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
 
   # Speed (km/hr) — only meaningful when timestamps are present
   if (!all(is.na(track$time))) {
-    dt_s        <- c(NA, as.numeric(diff(track$time), units = "secs"))
+    dt_s <- c(NA, as.numeric(diff(track$time), units = "secs"))
     track$speed <- ifelse(dt_s > 0, (dist_m / dt_s) * 3.6, NA)
   } else {
     track$speed <- NA_real_
@@ -137,16 +135,17 @@ explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
   use_color <- !all(is.na(color_var))
 
   if (use_color) {
+    color_domain <- range(color_var, na.rm = TRUE)
     pal <- leaflet::colorNumeric(
-      palette  = "YlOrRd",
-      domain   = color_var,
+      palette  = "RdYlGn",
+      domain   = color_domain,
       na.color = "#888888"
     )
     track_color <- pal(color_var)
   } else {
-    message("Note: no elevation or speed data found; track will be drawn in a fixed color.")
-    pal <- NULL
-    track_color <- "#e76f51"
+    message("Note: no elevation or speed data found; track will be drawn in a fixed colour.")
+    pal         <- NULL
+    track_color <- rep("#e76f51", n)
   }
 
   # ── 5. Build the interactive map ----
@@ -160,39 +159,44 @@ explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
       lat1 = min(track$lat, na.rm = TRUE),
       lng2 = max(track$lon, na.rm = TRUE),
       lat2 = max(track$lat, na.rm = TRUE)
-    ) |>
-    leaflet::addPolylines(
-      lng     = ~lon,
-      lat     = ~lat,
-      color   = track_color,
+    )
+
+  # Draw each segment individually so each gets its own colour
+  for (i in seq_len(n - 1)) {
+    map <- leaflet::addPolylines(
+      map,
+      lng     = track$lon[c(i, i + 1)],
+      lat     = track$lat[c(i, i + 1)],
+      color   = track_color[i],
       weight  = 4,
       opacity = 0.9,
-      popup   = ~paste0(
-        "<b>Point</b> ", seq_len(n), "<br>",
-        "Lat: ", round(lat, 5), "<br>",
-        "Lon: ", round(lon, 5), "<br>",
-        ifelse(!is.na(ele),   paste0("Elevation: ", round(ele, 1),   " m<br>"), ""),
-        ifelse(!is.na(speed), paste0("Speed: ",     round(speed, 1), " km/h"),  "")
+      popup   = paste0(
+        "<b>Point</b> ", i, "<br>",
+        "Lat: ",   round(track$lat[i], 5), "<br>",
+        "Lon: ",   round(track$lon[i], 5), "<br>",
+        if (!is.na(track$ele[i]))   paste0("Elevation: ", round(track$ele[i],   1), " m<br>") else "",
+        if (!is.na(track$speed[i])) paste0("Speed: ",     round(track$speed[i], 3), " km/h")  else ""
       )
-    ) |>
+    )
+  }
+
+  map <- map |>
     leaflet::addCircleMarkers(
-      data        = track[1, ],
+      data = track[1, ],
       lng = ~lon, lat = ~lat,
       color = "green", radius = 8, stroke = TRUE,
       fillOpacity = 0.9,
       popup = "Start"
     ) |>
     leaflet::addCircleMarkers(
-      data        = track[n, ],
+      data = track[n, ],
       lng = ~lon, lat = ~lat,
       color = "red", radius = 8, stroke = TRUE,
       fillOpacity = 0.9,
       popup = "End"
     )
 
-  print(map)   # renders in RStudio Viewer / browser
-
-  # ── 6. Elevation profile plot ----
+  # ── 6. Elevation profile as leaflet control ──────────────────────────────────
   if (!all(is.na(track$ele))) {
     elev_plot <- ggplot2::ggplot(track,
                                  ggplot2::aes(x = dist_cumulative_km, y = ele)) +
@@ -212,28 +216,51 @@ explore_gpx <- function(file_path = NULL, color_by = c("elevation", "speed")) {
         x = "Distance (km)",
         y = "Elevation (m)"
       ) +
-      ggplot2::theme_minimal(base_size = 13) +
+      ggplot2::theme_minimal(base_size = 11) +
       ggplot2::theme(
         plot.title    = ggplot2::element_text(face = "bold"),
         plot.subtitle = ggplot2::element_text(colour = "grey40")
       )
 
-    print(elev_plot)
+    # Render ggplot to a base64 PNG and embed as a leaflet control
+    tmp_png <- tempfile(fileext = ".png")
+    ggplot2::ggsave(tmp_png, elev_plot, width = 6, height = 1.5, dpi = 120)
+    img_base64 <- base64enc::base64encode(tmp_png)
+    elev_html <- htmltools::HTML(sprintf(
+      '<style>
+         .leaflet-bottom.leaflet-left { width: 100%%; pointer-events: none; }
+         .leaflet-bottom.leaflet-left .leaflet-control {
+           pointer-events: auto;
+           position: absolute;
+           left: 50%%;
+           transform: translateX(-50%%);
+           bottom: 0;
+         }
+       </style>
+       <div style="background:white;padding:8px;border-radius:4px;
+                   box-shadow:0 1px 5px rgba(0,0,0,0.4);">
+         <img src="data:image/png;base64,%s" width="420"/>
+       </div>', img_base64
+    ))
+    map <- leaflet::addControl(map, html = elev_html, position = "bottomleft")
   }
 
+  print(map)
+
   # ── 7. Console summary ----
-  message("\n──── GPX Summary ────")
-  message(sprintf("  Track points  : %d", n))
-  message(sprintf("  Total distance: %.2f km", max(track$dist_cumulative_km, na.rm = TRUE)))
+  message("\n──────── GPX Summary ────────")
+  message(sprintf("  Track points   : %d", n))
+  message(sprintf("  Total distance : %.3f km", max(track$dist_cumulative_km, na.rm = TRUE)))
   if (!all(is.na(track$ele))) {
-    message(sprintf("  Min elevation : %.1f m", min(track$ele, na.rm = TRUE)))
-    message(sprintf("  Max elevation : %.1f m", max(track$ele, na.rm = TRUE)))
+    message(sprintf("  Min elevation  : %.1f m", min(track$ele, na.rm = TRUE)))
+    message(sprintf("  Max elevation  : %.1f m", max(track$ele, na.rm = TRUE)))
   }
   if (!all(is.na(track$speed))) {
-    message(sprintf("  Avg speed     : %.1f km/h", mean(track$speed, na.rm = TRUE)))
-    message(sprintf("  Max speed     : %.1f km/h", max(track$speed,  na.rm = TRUE)))
+    message(sprintf("  Avg speed      : %.3f km/h", mean(track$speed, na.rm = TRUE)))
+    message(sprintf("  Max speed      : %.3f km/h", max(track$speed,  na.rm = TRUE)))
   }
-  message("─────────────────────\n")
+  message("─────────────────────────────\n")
 
   invisible(list(track = track, map = map))
 }
+
